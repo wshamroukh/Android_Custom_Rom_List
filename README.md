@@ -55,7 +55,6 @@ List of active Android Custom ROMS
 * **SkylineUI**: https://github.com/SkylineUI 
 * **Syberia Project**: https://github.com/syberia-project
 * **LeafOS-Project**: https://github.com/LeafOS-Project
-* **PixelExtended ROM**: https://github.com/PixelExtended
 * **OctaviOS**: https://github.com/Octavi-Staging
 * **SOSP-OS**: https://github.com/SOSP-OS
 * **Project ICE**: https://github.com/Project-1CE
@@ -67,6 +66,13 @@ List of active Android Custom ROMS
 * **CatalystOS**: https://github.com/catalyst-android
 * **Mist-OS**: https://github.com/Mist-OS
 * **LessAOSP**: https://github.com/LessAOSP
-* **Project- Flexo**: https://github.com/Project-Flexo
+* **Project-Flexo**: https://github.com/Project-Flexo
 * **Project lighthouse**: https://github.com/lighthouseQC
 * **Project Nyanpasu**: https://github.com/Project-Nyanpasu
+* **PixelPlusUI**: https://github.com/PixelPlusUI
+* **CalyxOS**: https://github.com/calyxos
+* **The XPerience Project**: https://github.com/TheXPerienceProject
+* **AlphaDroid**: https://github.com/AlphaDroid-Project
+* **xdroidOSS**: https://github.com/xdroid-oss
+* **FusionOS**: https://github.com/Fusion-OS
+* **Nameless-AOSP-OSS**: https://github.com/Nameless-AOSP-OSS
