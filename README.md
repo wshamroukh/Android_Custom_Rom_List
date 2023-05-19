@@ -1,78 +1,79 @@
 # List of active Android Custom ROMS
 List of active Android Custom ROMS
 
-* **LineageOS**: https://github.com/LineageOS
-* **Paranoid(AOSPA)**: https://github.com/AOSPA
-* **omnirom**: https://github.com/omnirom
-* **crDroid**: https://github.com/crdroidandroid
-* **AICP**: https://github.com/AICP
-* **GrapheneOS**: https://github.com/GrapheneOS
-* **Havoc-OS**: https://github.com/Havoc-OS
-* **ArrowOS**: https://github.com/ArrowOS
-* **Nitrogen Project**: https://github.com/nitrogen-project
-* **Bootleggers ROM**: https://github.com/BootleggersROM
-* **BlissROMs**: https://github.com/BlissRoms
-* **Evolution X**: https://github.com/Evolution-X
-* **Potato Open Sauce Project**: https://github.com/PotatoProject
-* **CherishOS**: https://github.com/CherishOS
-* **Project-Xtended**: https://github.com/Project-Xtended
-* **Yet another AOSP project (YAAP)**: https://github.com/yaap
-* **Superior OS**: https://github.com/SuperiorOS
-* **Project 404**: https://github.com/P-404
-* **Project-Awaken**: https://github.com/Project-Awaken
-* **PixelOS**: https://github.com/PixelOS-AOSP
-* **DerpFest AOSP**: https://github.com/DerpFest-AOSP
-* **Evervolv**: https://github.com/Evervolv
-* **PixelExtended ROM**: https://github.com/PixelExtended
-* **CarbonROM**: https://github.com/CarbonROM
-* **PixysOS**: https://github.com/PixysOS
-* **bananadroid**: https://github.com/bananadroid
-* **VoltageOS**: https://github.com/VoltageOS
-* **Rising Tech Open Source Software**: https://github.com/RisingTechOSS
-* **VoidUI Tiramisu Project**: https://github.com/VoidUI-Tiramisu
-* **tequilaOS**: https://github.com/tequilaOS
-* **Project Elixir**: https://github.com/Project-Elixir
-* **halogenOS**: https://github.com/halogenOS
-* **ProjectBlaze**: https://github.com/ProjectBlaze
-* **hentaiOS**: https://github.com/hentaiOS
-* **PixelDust Project CAF**: https://github.com/pixeldust-project-caf
-* **exTHmUI**: https://github.com/exthmui
-* **elytraOS**: https://github.com/elytraOS
-* **Cygnus**: https://github.com/cygnus-rom
-* **StagOS**: https://github.com/StagOS
-* **Miku UI**: https://github.com/Miku-UI
-* **ColtOS (Enigma)**: https://github.com/Colt-Enigma
-* **DroidX-UI**: https://github.com/DroidX-UI
-* **CatalystOS**: https://github.com/catalyst-android
-* **TheParasiteProject**: https://github.com/TheParasiteProject
-* **PixelExperience**: https://github.com/PixelExperience
-* **StatiX**: https://github.com/StatiXOS
-* **Spark OS**: https://github.com/Spark-Rom
-* **The Kenvyra Team**: https://github.com/Kenvyra
-* **LOS Modified**: https://github.com/LOSModified
-* **BlissOS**: https://github.com/BlissOS
-* **Black Iron Project**: https://github.com/Black-Iron-Project
-* **SkylineUI**: https://github.com/SkylineUI 
-* **Syberia Project**: https://github.com/syberia-project
-* **LeafOS-Project**: https://github.com/LeafOS-Project
-* **OctaviOS**: https://github.com/Octavi-Staging
-* **SOSP-OS**: https://github.com/SOSP-OS
-* **Project ICE**: https://github.com/Project-1CE
-* **The AtomX Project**: https://github.com/AtomXCLO
-* **ActualRealityOS**: https://github.com/ActualRealityOS
-* **SpiceOS**: https://github.com/SpiceOS
 * **Acme UI**: https://github.com/AcmeUI
-* **ReloadedOS**: https://github.com/ReloadedOS
+* **ActualRealityOS**: https://github.com/ActualRealityOS
+* **AICP**: https://github.com/AICP
+* **AlphaDroid**: https://github.com/AlphaDroid-Project
+* **ArrowOS**: https://github.com/ArrowOS
+* **AtomX Project**: https://github.com/AtomXCLO
+* **bananadroid**: https://github.com/bananadroid
+* **Black Iron Project**: https://github.com/Black-Iron-Project
+* **BlissOS**: https://github.com/BlissOS
+* **BlissROMs**: https://github.com/BlissRoms
+* **Bootleggers ROM**: https://github.com/BootleggersROM
+* **CalyxOS**: https://github.com/calyxos
+* **CarbonROM**: https://github.com/CarbonROM
 * **CatalystOS**: https://github.com/catalyst-android
-* **Mist-OS**: https://github.com/Mist-OS
+* **CherishOS**: https://github.com/CherishOS
+* **ColtOS (Enigma)**: https://github.com/Colt-Enigma
+* **crDroid**: https://github.com/crdroidandroid
+* **Cygnus**: https://github.com/cygnus-rom
+* **DerpFest AOSP**: https://github.com/DerpFest-AOSP
+* **DroidX-UI**: https://github.com/DroidX-UI
+* **elytraOS**: https://github.com/elytraOS
+* **Evolution X**: https://github.com/Evolution-X
+* **Evervolv**: https://github.com/Evervolv
+* **exTHmUI**: https://github.com/exthmui
+* **FusionOS**: https://github.com/Fusion-OS
+* **GrapheneOS**: https://github.com/GrapheneOS
+* **halogenOS**: https://github.com/halogenOS
+* **Havoc-OS**: https://github.com/Havoc-OS
+* **hentaiOS**: https://github.com/hentaiOS
+* **Kenvyra Team**: https://github.com/Kenvyra
+* **LeafOS-Project**: https://github.com/LeafOS-Project
 * **LessAOSP**: https://github.com/LessAOSP
-* **Project-Flexo**: https://github.com/Project-Flexo
+* **LineageOS**: https://github.com/LineageOS
+* **LOS Modified**: https://github.com/LOSModified
+* **Miku UI**: https://github.com/Miku-UI
+* **MIST-OS**: https://github.com/Mist-OS
+* **Nameless-AOSP-OSS**: https://github.com/Nameless-AOSP-OSS
+* **Nitrogen Project**: https://github.com/nitrogen-project
+* **OctaviOS**: https://github.com/Octavi-Staging
+* **omnirom**: https://github.com/omnirom
+* **Paranoid (AOSPA)**: https://github.com/AOSPA
+* **PixelDust Project CAF**: https://github.com/pixeldust-project-caf
+* **PixelExtended ROM**: https://github.com/PixelExtended
+* **PixelExperience**: https://github.com/PixelExperience
+* **PixelOS**: https://github.com/PixelOS-AOSP
+* **PixelPlusUI**: https://github.com/PixelPlusUI
+* **PixysOS**: https://github.com/PixysOS
+* **PlantROM**: https://github.com/PlantROM
+* **Project 404**: https://github.com/P-404
+* **Project Awaken**: https://github.com/Project-Awaken
+* **Project Blaze**: https://github.com/ProjectBlaze
+* **Project Elixir**: https://github.com/Project-Elixir
+* **Project ICE**: https://github.com/Project-1CE
 * **Project lighthouse**: https://github.com/lighthouseQC
 * **Project Nyanpasu**: https://github.com/Project-Nyanpasu
-* **PixelPlusUI**: https://github.com/PixelPlusUI
-* **CalyxOS**: https://github.com/calyxos
+* **Project Xtended**: https://github.com/Project-Xtended
+* **Project-Flexo**: https://github.com/Project-Flexo
+* **ReloadedOS**: https://github.com/ReloadedOS
+* **Rising Tech Open Source Software**: https://github.com/RisingTechOSS
+* **SOSP-OS**: https://github.com/SOSP-OS
+* **SkylineUI**: https://github.com/SkylineUI
+* **Spark OS**: https://github.com/Spark-Rom
+* **SpiceOS**: https://github.com/SpiceOS
+* **StagOS**: https://github.com/StagOS
+* **StatiX**: https://github.com/StatiXOS
+* **Superior OS**: https://github.com/SuperiorOS
+* **Syberia Project**: https://github.com/syberia-project
+* **tequilaOS**: https://github.com/tequilaOS
+* **The AtomX Project**: https://github.com/AtomXCLO
+* **The Kenvyra Team**: https://github.com/Kenvyra
+* **The Parasite Project**: https://github.com/TheParasiteProject
 * **The XPerience Project**: https://github.com/TheXPerienceProject
-* **AlphaDroid**: https://github.com/AlphaDroid-Project
+* **VoltageOS**: https://github.com/VoltageOS
+* **VoidUI Tiramisu Project**: https://github.com/VoidUI-Tiramisu
 * **xdroidOSS**: https://github.com/xdroid-oss
-* **FusionOS**: https://github.com/Fusion-OS
-* **Nameless-AOSP-OSS**: https://github.com/Nameless-AOSP-OSS
+* **Yet another AOSP project (YAAP)**: https://github.com/yaap
