@@ -8,6 +8,7 @@ List of active Android Custom ROMS
 * **ArrowOS**: https://github.com/ArrowOS
 * **AtomX Project**: https://github.com/AtomXCLO
 * **bananadroid**: https://github.com/bananadroid
+* **BenzoRom**: https://github.com/BenzoRom
 * **Black Iron Project**: https://github.com/Black-Iron-Project
 * **BlissOS**: https://github.com/BlissOS
 * **BlissROMs**: https://github.com/BlissRoms
