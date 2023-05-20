@@ -35,6 +35,7 @@ List of active Android Custom ROMS
 * **LeafOS-Project**: https://github.com/LeafOS-Project
 * **LessAOSP**: https://github.com/LessAOSP
 * **LineageOS**: https://github.com/LineageOS
+* **LMODroid (LibreMobileOS)**: https://github.com/LMODroid
 * **LOS Modified**: https://github.com/LOSModified
 * **Miku UI**: https://github.com/Miku-UI
 * **MIST-OS**: https://github.com/Mist-OS
