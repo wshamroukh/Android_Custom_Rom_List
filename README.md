@@ -5,10 +5,12 @@ List of active Android Custom ROMS
 * **ActualRealityOS**: https://github.com/ActualRealityOS
 * **AICP**: https://github.com/AICP
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
+* **Arc-Team**: https://github.com/Arc-Team
 * **ArrowOS**: https://github.com/ArrowOS
 * **AtomX Project**: https://github.com/AtomXCLO
 * **bananadroid**: https://github.com/bananadroid
 * **BenzoRom**: https://github.com/BenzoRom
+* **Bianca Project**: https://github.com/BiancaProject
 * **Black Iron Project**: https://github.com/Black-Iron-Project
 * **BlissOS**: https://github.com/BlissOS
 * **BlissROMs**: https://github.com/BlissRoms
@@ -19,6 +21,7 @@ List of active Android Custom ROMS
 * **CherishOS**: https://github.com/CherishOS
 * **ColtOS (Enigma)**: https://github.com/Colt-Enigma
 * **crDroid**: https://github.com/crdroidandroid
+* **CrystalOS**: https://github.com/CrystalOS-Project
 * **Cygnus**: https://github.com/cygnus-rom
 * **DerpFest AOSP**: https://github.com/DerpFest-AOSP
 * **DroidX-UI**: https://github.com/DroidX-UI
@@ -35,6 +38,7 @@ List of active Android Custom ROMS
 * **LeafOS-Project**: https://github.com/LeafOS-Project
 * **LessAOSP**: https://github.com/LessAOSP
 * **LineageOS**: https://github.com/LineageOS
+* **Lineage Extended**: https://github.com/LineageOSExtended
 * **LMODroid (LibreMobileOS)**: https://github.com/LMODroid
 * **LOS Modified**: https://github.com/LOSModified
 * **Miku UI**: https://github.com/Miku-UI
@@ -44,6 +48,8 @@ List of active Android Custom ROMS
 * **OctaviOS**: https://github.com/Octavi-Staging
 * **omnirom**: https://github.com/omnirom
 * **Paranoid (AOSPA)**: https://github.com/AOSPA
+* **PE-GM (PixelExperience Fork)**: https://github.com/pe-gm
+* **Phoenix**: https://github.com/PhoenixAOSP
 * **PixelDust Project CAF**: https://github.com/pixeldust-project-caf
 * **PixelExtended ROM**: https://github.com/PixelExtended
 * **PixelExperience**: https://github.com/PixelExperience
