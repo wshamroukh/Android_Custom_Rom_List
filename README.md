@@ -5,6 +5,7 @@ List of active Android Custom ROMS
 * **ActualRealityOS**: https://github.com/ActualRealityOS
 * **AICP**: https://github.com/AICP
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
+* **amyROM**: https://github.com/amyROM
 * **Arc-Team**: https://github.com/Arc-Team
 * **ArrowOS**: https://github.com/ArrowOS
 * **AtomX Project**: https://github.com/AtomXCLO
@@ -57,6 +58,7 @@ List of active Android Custom ROMS
 * **PixelPlusUI**: https://github.com/PixelPlusUI
 * **PixysOS**: https://github.com/PixysOS
 * **PlantROM**: https://github.com/PlantROM
+* **Potato Open Sauce Project**: https://github.com/PotatoProject
 * **Project 404**: https://github.com/P-404
 * **Project Awaken**: https://github.com/Project-Awaken
 * **Project Blaze**: https://github.com/ProjectBlaze
