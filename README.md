@@ -68,6 +68,7 @@ List of active Android Custom ROMS
 * **Project Nyanpasu**: https://github.com/Project-Nyanpasu
 * **Project Xtended**: https://github.com/Project-Xtended
 * **Project-Flexo**: https://github.com/Project-Flexo
+* **Project-Zephyrus**: https://github.com/Project-Zephyrus
 * **ReloadedOS**: https://github.com/ReloadedOS
 * **Rising Tech Open Source Software**: https://github.com/RisingTechOSS
 * **SOSP-OS**: https://github.com/SOSP-OS
