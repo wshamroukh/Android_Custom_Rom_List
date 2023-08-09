@@ -20,6 +20,7 @@ List of active Android Custom ROMS
 * **CarbonROM**: https://github.com/CarbonROM
 * **CatalystOS**: https://github.com/catalyst-android
 * **CherishOS**: https://github.com/CherishOS
+* **ClownUI**: https://github.com/ClownUI
 * **ColtOS (Enigma)**: https://github.com/Colt-Enigma
 * **crDroid**: https://github.com/crdroidandroid
 * **CrystalOS**: https://github.com/CrystalOS-Project
@@ -32,11 +33,14 @@ List of active Android Custom ROMS
 * **exTHmUI**: https://github.com/exthmui
 * **FusionOS**: https://github.com/Fusion-OS
 * **GrapheneOS**: https://github.com/GrapheneOS
+* **Halcyon**: https://github.com/halcyonproject
 * **halogenOS**: https://github.com/halogenOS
 * **Havoc-OS**: https://github.com/Havoc-OS
 * **hentaiOS**: https://github.com/hentaiOS
 * **Kenvyra Team**: https://github.com/Kenvyra
+* **Komodo OS**: https://github.com/Komodo-OS
 * **LeafOS-Project**: https://github.com/LeafOS-Project
+* **LegionOS**: https://github.com/Project-LegionOS
 * **LessAOSP**: https://github.com/LessAOSP
 * **LineageOS**: https://github.com/LineageOS
 * **Lineage Extended**: https://github.com/LineageOSExtended
@@ -54,6 +58,7 @@ List of active Android Custom ROMS
 * **PixelDust Project CAF**: https://github.com/pixeldust-project-caf
 * **PixelExtended ROM**: https://github.com/PixelExtended
 * **PixelExperience**: https://github.com/PixelExperience
+* **PixelMagic**: https://github.com/PixelMagic-OS
 * **PixelOS**: https://github.com/PixelOS-AOSP
 * **PixelPlusUI**: https://github.com/PixelPlusUI
 * **PixysOS**: https://github.com/PixysOS
@@ -69,15 +74,19 @@ List of active Android Custom ROMS
 * **Project Xtended**: https://github.com/Project-Xtended
 * **Project-Flexo**: https://github.com/Project-Flexo
 * **Project-Zephyrus**: https://github.com/Project-Zephyrus
+* **ProtonPlus**: https://github.com/protonplus-org
 * **ReloadedOS**: https://github.com/ReloadedOS
 * **Rising Tech Open Source Software**: https://github.com/RisingTechOSS
+* **SharpenedOS**: https://github.com/SharpenedOS
 * **SOSP-OS**: https://github.com/SOSP-OS
 * **SkylineUI**: https://github.com/SkylineUI
 * **Spark OS**: https://github.com/Spark-Rom
 * **SpiceOS**: https://github.com/SpiceOS
 * **StagOS**: https://github.com/StagOS
-* **StatiX**: https://github.com/StatiXOS
+* **Statix**: https://github.com/StatiXOS
+* **StatixOS-Extended**: https://github.com/StatixOS-Extended
 * **Superior OS**: https://github.com/SuperiorOS
+* **Superior Extended**: https://github.com/SuperiorExtended
 * **Syberia Project**: https://github.com/syberia-project
 * **tequilaOS**: https://github.com/tequilaOS
 * **The AtomX Project**: https://github.com/AtomXCLO
