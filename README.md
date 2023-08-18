@@ -36,6 +36,7 @@ List of active Android Custom ROMS
 * **Halcyon**: https://github.com/halcyonproject
 * **halogenOS**: https://github.com/halogenOS
 * **Havoc-OS**: https://github.com/Havoc-OS
+* **Havoc-Extended**: https://github.com/Havoc-Custom
 * **hentaiOS**: https://github.com/hentaiOS
 * **Kenvyra Team**: https://github.com/Kenvyra
 * **Komodo OS**: https://github.com/Komodo-OS
