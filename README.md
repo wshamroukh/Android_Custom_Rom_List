@@ -24,6 +24,7 @@ List of active Android Custom ROMS
 * **ColtOS (Enigma)**: https://github.com/Colt-Enigma
 * **crDroid**: https://github.com/crdroidandroid
 * **CrystalOS**: https://github.com/CrystalOS-Project
+* **Cyclone-AOSP**: https://github.com/CYCLONE-AOSP
 * **Cygnus**: https://github.com/cygnus-rom
 * **DerpFest AOSP**: https://github.com/DerpFest-AOSP
 * **DroidX-UI**: https://github.com/DroidX-UI
