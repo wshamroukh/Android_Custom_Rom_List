@@ -99,4 +99,5 @@ List of active Android Custom ROMS
 * **VoltageOS**: https://github.com/VoltageOS
 * **VoidUI Tiramisu Project**: https://github.com/VoidUI-Tiramisu
 * **xdroidOSS**: https://github.com/xdroid-oss
+* **xdroidOSS-Pixel**: https://github.com/xDroidOSS-Pixel
 * **Yet another AOSP project (YAAP)**: https://github.com/yaap
