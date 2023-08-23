@@ -4,6 +4,7 @@ List of active Android Custom ROMS
 * **Acme UI**: https://github.com/AcmeUI
 * **ActualRealityOS**: https://github.com/ActualRealityOS
 * **AICP**: https://github.com/AICP
+* **AfterLife Project**: https://github.com/AfterLifePrjkt13
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **amyROM**: https://github.com/amyROM
 * **Arc-Team**: https://github.com/Arc-Team
@@ -22,6 +23,7 @@ List of active Android Custom ROMS
 * **CherishOS**: https://github.com/CherishOS
 * **ClownUI**: https://github.com/ClownUI
 * **ColtOS (Enigma)**: https://github.com/Colt-Enigma
+* **Corvus-AOSP**: https://github.com/Corvus-AOSP
 * **crDroid**: https://github.com/crdroidandroid
 * **CrystalOS**: https://github.com/CrystalOS-Project
 * **Cyclone-AOSP**: https://github.com/CYCLONE-AOSP
@@ -57,6 +59,8 @@ List of active Android Custom ROMS
 * **Paranoid (AOSPA)**: https://github.com/AOSPA
 * **PE-GM (PixelExperience Fork)**: https://github.com/pe-gm
 * **Phoenix**: https://github.com/PhoenixAOSP
+* **PixelBlaster**: https://github.com/PixelBlaster-OS
+* **PixelBuilds**: https://github.com/PixelBuilds-Staging
 * **PixelDust Project CAF**: https://github.com/pixeldust-project-caf
 * **PixelExtended ROM**: https://github.com/PixelExtended
 * **PixelExperience**: https://github.com/PixelExperience
