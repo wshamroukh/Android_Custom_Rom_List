@@ -31,6 +31,7 @@ List of active Android Custom ROMS
 * **DerpFest AOSP**: https://github.com/DerpFest-AOSP
 * **DroidX-UI**: https://github.com/DroidX-UI
 * **elytraOS**: https://github.com/elytraOS
+* **EthereumPhone**: https://github.com/EthereumPhone
 * **Evolution X**: https://github.com/Evolution-X
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
@@ -56,6 +57,7 @@ List of active Android Custom ROMS
 * **Nitrogen Project**: https://github.com/nitrogen-project
 * **OctaviOS**: https://github.com/Octavi-Staging
 * **omnirom**: https://github.com/omnirom
+* **Padre Pio UI**: https://github.com/PadrePioUI
 * **Paranoid (AOSPA)**: https://github.com/AOSPA
 * **PE-GM (PixelExperience Fork)**: https://github.com/pe-gm
 * **Phoenix**: https://github.com/PhoenixAOSP
@@ -74,8 +76,10 @@ List of active Android Custom ROMS
 * **Project 404**: https://github.com/P-404
 * **Project Awaken**: https://github.com/Project-Awaken
 * **Project Blaze**: https://github.com/ProjectBlaze
+* **Project Dessert**: https://github.com/Project-Dessert
 * **Project Elixir**: https://github.com/Project-Elixir
 * **Project ICE**: https://github.com/Project-1CE
+* **Project Kasumi**: https://github.com/ProjectKasumi
 * **Project lighthouse**: https://github.com/lighthouseQC
 * **Project Nyanpasu**: https://github.com/Project-Nyanpasu
 * **Project Xtended**: https://github.com/Project-Xtended
