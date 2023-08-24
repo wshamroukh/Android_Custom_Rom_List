@@ -1,4 +1,4 @@
-# List of active Android Custom ROMS
+# List of actively updated Android Custom ROMS
 List of active Android Custom ROMS
 
 * **Acme UI**: https://github.com/AcmeUI
