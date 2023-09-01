@@ -2,16 +2,12 @@
 List of active Android Custom ROMS
 
 * **Acme UI**: https://github.com/AcmeUI
-* **ActualRealityOS**: https://github.com/ActualRealityOS
 * **AICP**: https://github.com/AICP
 * **AfterLife Project**: https://github.com/AfterLifePrjkt13
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **amyROM**: https://github.com/amyROM
-* **Arc-Team**: https://github.com/Arc-Team
 * **ArrowOS**: https://github.com/ArrowOS
-* **AtomX Project**: https://github.com/AtomXCLO
 * **bananadroid**: https://github.com/bananadroid
-* **BenzoRom**: https://github.com/BenzoRom
 * **Bianca Project**: https://github.com/BiancaProject
 * **Black Iron Project**: https://github.com/Black-Iron-Project
 * **BlissOS**: https://github.com/BlissOS
@@ -19,18 +15,14 @@ List of active Android Custom ROMS
 * **Bootleggers ROM**: https://github.com/BootleggersROM
 * **CalyxOS**: https://github.com/calyxos
 * **CarbonROM**: https://github.com/CarbonROM
-* **CatalystOS**: https://github.com/catalyst-android
 * **CherishOS**: https://github.com/CherishOS
 * **ClownUI**: https://github.com/ClownUI
 * **ColtOS (Enigma)**: https://github.com/Colt-Enigma
 * **Corvus-AOSP**: https://github.com/Corvus-AOSP
 * **crDroid**: https://github.com/crdroidandroid
-* **CrystalOS**: https://github.com/CrystalOS-Project
 * **Cyclone-AOSP**: https://github.com/CYCLONE-AOSP
-* **Cygnus**: https://github.com/cygnus-rom
 * **DerpFest AOSP**: https://github.com/DerpFest-AOSP
 * **DroidX-UI**: https://github.com/DroidX-UI
-* **elytraOS**: https://github.com/elytraOS
 * **EthereumPhone**: https://github.com/EthereumPhone
 * **Evolution X**: https://github.com/Evolution-X
 * **Evervolv**: https://github.com/Evervolv
@@ -40,7 +32,6 @@ List of active Android Custom ROMS
 * **Halcyon**: https://github.com/halcyonproject
 * **halogenOS**: https://github.com/halogenOS
 * **Havoc-OS**: https://github.com/Havoc-OS
-* **Havoc-Extended**: https://github.com/Havoc-Custom
 * **hentaiOS**: https://github.com/hentaiOS
 * **Kenvyra Team**: https://github.com/Kenvyra
 * **Komodo OS**: https://github.com/Komodo-OS
@@ -48,11 +39,9 @@ List of active Android Custom ROMS
 * **LegionOS**: https://github.com/Project-LegionOS
 * **LessAOSP**: https://github.com/LessAOSP
 * **LineageOS**: https://github.com/LineageOS
-* **Lineage Extended**: https://github.com/LineageOSExtended
 * **LMODroid (LibreMobileOS)**: https://github.com/LMODroid
 * **LOS Modified**: https://github.com/LOSModified
 * **Miku UI**: https://github.com/Miku-UI
-* **MIST-OS**: https://github.com/Mist-OS
 * **Nameless-AOSP-OSS**: https://github.com/Nameless-AOSP-OSS
 * **Nitrogen Project**: https://github.com/nitrogen-project
 * **OctaviOS**: https://github.com/Octavi-Staging
@@ -110,3 +99,14 @@ List of active Android Custom ROMS
 * **xdroidOSS**: https://github.com/xdroid-oss
 * **xdroidOSS-Pixel**: https://github.com/xDroidOSS-Pixel
 * **Yet another AOSP project (YAAP)**: https://github.com/yaap
+
+# List of less active Android Custom ROMS
+* **Arc-Team**: https://github.com/Arc-Team
+* **AtomX Project**: https://github.com/AtomXCLO
+* **BenzoRom**: https://github.com/BenzoRom
+* **CatalystOS**: https://github.com/catalyst-android
+* **CrystalOS**: https://github.com/CrystalOS-Project
+* **Cygnus**: https://github.com/cygnus-rom
+* **elytraOS**: https://github.com/elytraOS
+* **MIST-OS**: https://github.com/Mist-OS
+    
