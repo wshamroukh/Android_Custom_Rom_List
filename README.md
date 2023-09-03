@@ -42,6 +42,7 @@ List of active Android Custom ROMS
 * **LMODroid (LibreMobileOS)**: https://github.com/LMODroid
 * **LOS Modified**: https://github.com/LOSModified
 * **Miku UI**: https://github.com/Miku-UI
+* **Morbi-OS**: https://github.com/Morbi-OS
 * **Nameless-AOSP-OSS**: https://github.com/Nameless-AOSP-OSS
 * **Nitrogen Project**: https://github.com/nitrogen-project
 * **OctaviOS**: https://github.com/Octavi-Staging
