@@ -62,7 +62,6 @@ List of active Android Custom ROMS
 * **PixelPlusUI**: https://github.com/PixelPlusUI
 * **PixelStar**: https://github.com/Project-PixelStar
 * **PixysOS**: https://github.com/PixysOS
-* **PlantROM**: https://github.com/PlantROM
 * **Potato Open Sauce Project**: https://github.com/PotatoProject
 * **Project 404**: https://github.com/P-404
 * **Project Awaken**: https://github.com/Project-Awaken
