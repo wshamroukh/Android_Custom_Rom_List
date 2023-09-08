@@ -7,6 +7,7 @@ List of active Android Custom ROMS
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **amyROM**: https://github.com/amyROM
 * **ArrowOS**: https://github.com/ArrowOS
+* **Awaken Xtended**: https://github.com/awaken-xt
 * **bananadroid**: https://github.com/bananadroid
 * **Bianca Project**: https://github.com/BiancaProject
 * **Black Iron Project**: https://github.com/Black-Iron-Project
@@ -69,8 +70,10 @@ List of active Android Custom ROMS
 * **Project Dessert**: https://github.com/Project-Dessert
 * **Project Elixir**: https://github.com/Project-Elixir
 * **Project ICE**: https://github.com/Project-1CE
+* **Project Kaleidoscope**: https://github.com/Project-Kaleidoscope
 * **Project Kasumi**: https://github.com/ProjectKasumi
 * **Project lighthouse**: https://github.com/lighthouseQC
+* **Project Matrixx**: https://github.com/ProjectMatrixx
 * **Project Nyanpasu**: https://github.com/Project-Nyanpasu
 * **Project Xtended**: https://github.com/Project-Xtended
 * **Project-Flexo**: https://github.com/Project-Flexo
@@ -96,7 +99,7 @@ List of active Android Custom ROMS
 * **The Parasite Project**: https://github.com/TheParasiteProject
 * **The XPerience Project**: https://github.com/TheXPerienceProject
 * **VoltageOS**: https://github.com/VoltageOS
-* **VoidUI Tiramisu Project**: https://github.com/VoidUI-Tiramisu
+* **VoidUI-Andromeda**: https://github.com/VoidUI-Andromeda
 * **xdroidOSS**: https://github.com/xdroid-oss
 * **xdroidOSS-Pixel**: https://github.com/xDroidOSS-Pixel
 * **Yet another AOSP project (YAAP)**: https://github.com/yaap
