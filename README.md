@@ -73,7 +73,6 @@ List of active Android Custom ROMS
 * **Project Kasumi**: https://github.com/ProjectKasumi
 * **Project lighthouse**: https://github.com/lighthouseQC
 * **Project Matrixx**: https://github.com/ProjectMatrixx
-* **Project Nyanpasu**: https://github.com/Project-Nyanpasu
 * **Project Xtended**: https://github.com/Project-Xtended
 * **Project-Flexo**: https://github.com/Project-Flexo
 * **Project-Zephyrus**: https://github.com/Project-Zephyrus
