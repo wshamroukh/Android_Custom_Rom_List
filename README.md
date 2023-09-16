@@ -23,6 +23,7 @@ List of active Android Custom ROMS
 * **crDroid**: https://github.com/crdroidandroid
 * **Cyclone-AOSP**: https://github.com/CYCLONE-AOSP
 * **DerpFest AOSP**: https://github.com/DerpFest-AOSP
+* **Divested-Mobile**: https://github.com/Divested-Mobile
 * **DroidX-UI**: https://github.com/DroidX-UI
 * **EthereumPhone**: https://github.com/EthereumPhone
 * **Evolution X**: https://github.com/Evolution-X
