@@ -25,6 +25,7 @@ List of active Android Custom ROMS
 * **DerpFest AOSP**: https://github.com/DerpFest-AOSP
 * **Divested-Mobile**: https://github.com/Divested-Mobile
 * **DroidX-UI**: https://github.com/DroidX-UI
+* **Ethereal-OS**: https://github.com/Ethereal-OS
 * **EthereumPhone**: https://github.com/EthereumPhone
 * **Evolution X**: https://github.com/Evolution-X
 * **Evervolv**: https://github.com/Evervolv
