@@ -76,7 +76,6 @@ List of active Android Custom ROMS
 * **Project ICE**: https://github.com/Project-1CE
 * **Project Kaleidoscope**: https://github.com/Project-Kaleidoscope
 * **Project Kasumi**: https://github.com/ProjectKasumi
-* **Project lighthouse**: https://github.com/lighthouseQC
 * **Project Matrixx**: https://github.com/ProjectMatrixx
 * **Project Xtended**: https://github.com/Project-Xtended
 * **Project-Flexo**: https://github.com/Project-Flexo
@@ -89,7 +88,6 @@ List of active Android Custom ROMS
 * **SOSP-OS**: https://github.com/SOSP-OS
 * **SkylineUI**: https://github.com/SkylineUI
 * **Spark OS**: https://github.com/Spark-Rom
-* **SpiceOS**: https://github.com/SpiceOS
 * **StagOS**: https://github.com/StagOS
 * **Statix**: https://github.com/StatiXOS
 * **StatixOS-Extended**: https://github.com/StatixOS-Extended
@@ -113,7 +111,9 @@ List of active Android Custom ROMS
 * **BenzoRom**: https://github.com/BenzoRom
 * **CatalystOS**: https://github.com/catalyst-android
 * **CrystalOS**: https://github.com/CrystalOS-Project
+* **Project lighthouse**: https://github.com/lighthouseQC
 * **Cygnus**: https://github.com/cygnus-rom
 * **elytraOS**: https://github.com/elytraOS
 * **MIST-OS**: https://github.com/Mist-OS
+* **SpiceOS**: https://github.com/SpiceOS
     
