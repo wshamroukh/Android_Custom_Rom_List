@@ -6,7 +6,9 @@ List of active Android Custom ROMS
 * **AfterLife Project**: https://github.com/AfterLifePrjkt13
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **amyROM**: https://github.com/amyROM
+* **ApolloOS**: https://github.com/ApolloOS
 * **ArrowOS**: https://github.com/ArrowOS
+* **Arrow Extended**: https://github.com/arrow-xt
 * **Awaken Xtended**: https://github.com/awaken-xt
 * **bananadroid**: https://github.com/bananadroid
 * **Bianca Project**: https://github.com/BiancaProject
@@ -49,6 +51,7 @@ List of active Android Custom ROMS
 * **Nameless-AOSP-OSS**: https://github.com/Nameless-AOSP-OSS
 * **Nitrogen Project**: https://github.com/nitrogen-project
 * **OctaviOS**: https://github.com/Octavi-Staging
+* **OKcarOS**: https://github.com/okcar-os
 * **omnirom**: https://github.com/omnirom
 * **Padre Pio UI**: https://github.com/PadrePioUI
 * **Paranoid (AOSPA)**: https://github.com/AOSPA
