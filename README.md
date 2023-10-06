@@ -33,6 +33,7 @@ List of active Android Custom ROMS
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
 * **FusionOS**: https://github.com/Fusion-OS
+* **GenesisOS**: https://github.com/GenesisOS
 * **GrapheneOS**: https://github.com/GrapheneOS
 * **Halcyon**: https://github.com/halcyonproject
 * **halogenOS**: https://github.com/halogenOS
