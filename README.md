@@ -40,6 +40,7 @@ List of active Android Custom ROMS
 * **hentaiOS**: https://github.com/hentaiOS
 * **Kenvyra Team**: https://github.com/Kenvyra
 * **Komodo OS**: https://github.com/Komodo-OS
+* **KuroNekoDroid**: https://github.com/KuroNekoDroid
 * **LeafOS-Project**: https://github.com/LeafOS-Project
 * **LegionOS**: https://github.com/Project-LegionOS
 * **LessAOSP**: https://github.com/LessAOSP
