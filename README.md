@@ -19,6 +19,7 @@ List of active Android Custom ROMS
 * **CalyxOS**: https://github.com/calyxos
 * **CarbonROM**: https://github.com/CarbonROM
 * **CherishOS**: https://github.com/CherishOS
+* **Cipher OS**: https://github.com/CipherOS
 * **ClownUI**: https://github.com/ClownUI
 * **ColtOS (Enigma)**: https://github.com/Colt-Enigma
 * **Corvus-AOSP**: https://github.com/Corvus-AOSP
@@ -86,6 +87,7 @@ List of active Android Custom ROMS
 * **RampageOS**: https://github.com/RampageOS
 * **ReloadedOS**: https://github.com/ReloadedOS
 * **Rising Tech Open Source Software**: https://github.com/RisingTechOSS
+* **SerasaOS**: https://github.com/SerasaOS
 * **SharpenedOS**: https://github.com/SharpenedOS
 * **SOSP-OS**: https://github.com/SOSP-OS
 * **SkylineUI**: https://github.com/SkylineUI
@@ -96,6 +98,7 @@ List of active Android Custom ROMS
 * **Superior OS**: https://github.com/SuperiorOS
 * **Superior Extended**: https://github.com/SuperiorExtended
 * **Syberia Project**: https://github.com/syberia-project
+* **SymbioteOS**: https://github.com/Venomized-Project
 * **tequilaOS**: https://github.com/tequilaOS
 * **The AtomX Project**: https://github.com/AtomXCLO
 * **The Kenvyra Team**: https://github.com/Kenvyra
