@@ -98,7 +98,7 @@ List of active Android Custom ROMS
 * **Superior OS**: https://github.com/SuperiorOS
 * **Superior Extended**: https://github.com/SuperiorExtended
 * **Syberia Project**: https://github.com/syberia-project
-* **SymbioteOS**: https://github.com/Venomized-Project
+* **SymbioteOS**: https://github.com/SymBioteOS
 * **tequilaOS**: https://github.com/tequilaOS
 * **The AtomX Project**: https://github.com/AtomXCLO
 * **The Kenvyra Team**: https://github.com/Kenvyra
