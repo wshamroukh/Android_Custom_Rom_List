@@ -24,8 +24,10 @@ List of active Android Custom ROMS
 * **ColtOS (Enigma)**: https://github.com/Colt-Enigma
 * **Corvus-AOSP**: https://github.com/Corvus-AOSP
 * **crDroid**: https://github.com/crdroidandroid
+* **crDroid X**: https://github.com/crdroidx
 * **Cyclone-AOSP**: https://github.com/CYCLONE-AOSP
 * **DerpFest AOSP**: https://github.com/DerpFest-AOSP
+* **DiversityOS**: https://github.com/DiversityOS
 * **Divested-Mobile**: https://github.com/Divested-Mobile
 * **DroidX-UI**: https://github.com/DroidX-UI
 * **Ethereal-OS**: https://github.com/Ethereal-OS
@@ -33,6 +35,7 @@ List of active Android Custom ROMS
 * **Evolution X**: https://github.com/Evolution-X
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
+* **FortuneOS-CLO**: https://github.com/FortuneOS-CLO
 * **FusionOS**: https://github.com/Fusion-OS
 * **GenesisOS**: https://github.com/GenesisOS
 * **GrapheneOS**: https://github.com/GrapheneOS
@@ -94,6 +97,7 @@ List of active Android Custom ROMS
 * **SkylineUI**: https://github.com/SkylineUI
 * **Spark OS**: https://github.com/Spark-Rom
 * **StagOS**: https://github.com/StagOS
+* **StandartOS Project**: https://github.com/StandartOS
 * **Statix**: https://github.com/StatiXOS
 * **StatixOS-Extended**: https://github.com/StatixOS-Extended
 * **Superior OS**: https://github.com/SuperiorOS
