@@ -43,6 +43,7 @@ List of active Android Custom ROMS
 * **halogenOS**: https://github.com/halogenOS
 * **Havoc-OS**: https://github.com/Havoc-OS
 * **hentaiOS**: https://github.com/hentaiOS
+* **Inexdroid**: https://github.com/inex-droid
 * **Kenvyra Team**: https://github.com/Kenvyra
 * **Komodo OS**: https://github.com/Komodo-OS
 * **KuroNekoDroid**: https://github.com/KuroNekoDroid
