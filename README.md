@@ -84,6 +84,7 @@ List of active Android Custom ROMS
 * **Project Kaleidoscope**: https://github.com/Project-Kaleidoscope
 * **Project Kasumi**: https://github.com/ProjectKasumi
 * **Project Matrixx**: https://github.com/ProjectMatrixx
+* **Project Mist OS**: https://github.com/Project-Mist-OS
 * **Project Xtended**: https://github.com/Project-Xtended
 * **Project-Flexo**: https://github.com/Project-Flexo
 * **Project-Zephyrus**: https://github.com/Project-Zephyrus
@@ -124,6 +125,5 @@ List of active Android Custom ROMS
 * **Project lighthouse**: https://github.com/lighthouseQC
 * **Cygnus**: https://github.com/cygnus-rom
 * **elytraOS**: https://github.com/elytraOS
-* **MIST-OS**: https://github.com/Mist-OS
 * **SpiceOS**: https://github.com/SpiceOS
     
