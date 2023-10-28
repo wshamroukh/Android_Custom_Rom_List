@@ -107,7 +107,6 @@ List of active Android Custom ROMS
 * **Syberia Project**: https://github.com/syberia-project
 * **SymbioteOS**: https://github.com/SymBioteOS
 * **tequilaOS**: https://github.com/tequilaOS
-* **The AtomX Project**: https://github.com/AtomXCLO
 * **The Kenvyra Team**: https://github.com/Kenvyra
 * **The Parasite Project**: https://github.com/TheParasiteProject
 * **The XPerience Project**: https://github.com/TheXPerienceProject
@@ -116,15 +115,4 @@ List of active Android Custom ROMS
 * **xdroidOSS**: https://github.com/xdroid-oss
 * **xdroidOSS-Pixel**: https://github.com/xDroidOSS-Pixel
 * **Yet another AOSP project (YAAP)**: https://github.com/yaap
-
-# List of less active Android Custom ROMS
-* **Arc-Team**: https://github.com/Arc-Team
-* **AtomX Project**: https://github.com/AtomXCLO
-* **BenzoRom**: https://github.com/BenzoRom
-* **CatalystOS**: https://github.com/catalyst-android
-* **CrystalOS**: https://github.com/CrystalOS-Project
-* **Project lighthouse**: https://github.com/lighthouseQC
-* **Cygnus**: https://github.com/cygnus-rom
-* **elytraOS**: https://github.com/elytraOS
-* **SpiceOS**: https://github.com/SpiceOS
     
