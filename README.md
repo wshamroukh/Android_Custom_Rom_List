@@ -86,7 +86,6 @@ List of active Android Custom ROMS
 * **Project Matrixx**: https://github.com/ProjectMatrixx
 * **Project Mist OS**: https://github.com/Project-Mist-OS
 * **Project Xtended**: https://github.com/Project-Xtended
-* **Project-Flexo**: https://github.com/Project-Flexo
 * **Project-Zephyrus**: https://github.com/Project-Zephyrus
 * **ProtonPlus**: https://github.com/protonplus-org
 * **RampageOS**: https://github.com/RampageOS
