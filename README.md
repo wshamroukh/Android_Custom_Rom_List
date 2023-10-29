@@ -35,7 +35,6 @@ List of active Android Custom ROMS
 * **Evolution X**: https://github.com/Evolution-X
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
-* **FortuneOS-CLO**: https://github.com/FortuneOS-CLO
 * **FusionOS**: https://github.com/Fusion-OS
 * **GenesisOS**: https://github.com/GenesisOS
 * **GrapheneOS**: https://github.com/GrapheneOS
