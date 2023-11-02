@@ -92,6 +92,7 @@ List of active Android Custom ROMS
 * **RampageOS**: https://github.com/RampageOS
 * **ReloadedOS**: https://github.com/ReloadedOS
 * **Rising Tech Open Source Software**: https://github.com/RisingTechOSS
+* **RohieOS-CLO**: https://github.com/RohieOS-CLO
 * **SerasaOS**: https://github.com/SerasaOS
 * **SharpenedOS**: https://github.com/SharpenedOS
 * **SOSP-OS**: https://github.com/SOSP-OS
