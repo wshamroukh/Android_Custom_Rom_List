@@ -43,6 +43,8 @@ List of active Android Custom ROMS
 * **Havoc-OS**: https://github.com/Havoc-OS
 * **hentaiOS**: https://github.com/hentaiOS
 * **HorizonDroid**: https://github.com/HorizonDroidLab
+* **HorizonDroid-13**: https://github.com/HorizonDroid-13
+* **HZOS-Project**: https://github.com/HZOS-Project
 * **Inexdroid**: https://github.com/inex-droid
 * **Kenvyra Team**: https://github.com/Kenvyra
 * **Komodo OS**: https://github.com/Komodo-OS
@@ -62,16 +64,19 @@ List of active Android Custom ROMS
 * **OKcarOS**: https://github.com/okcar-os
 * **omnirom**: https://github.com/omnirom
 * **Padre Pio UI**: https://github.com/PadrePioUI
+* **Palladium OS**: https://github.com/Palladium-OS
 * **Paranoid (AOSPA)**: https://github.com/AOSPA
 * **PE-GM (PixelExperience Fork)**: https://github.com/pe-gm
 * **Phoenix**: https://github.com/PhoenixAOSP
 * **PixelBlaster**: https://github.com/PixelBlaster-OS
-* **PixelBuilds**: https://github.com/PixelBuilds-Staging
+* **PixelBuilds**: https://github.com/PixelBuildsROM
 * **PixelDust Project CAF**: https://github.com/pixeldust-project-caf
 * **PixelExtended ROM**: https://github.com/PixelExtended
 * **PixelExperience**: https://github.com/PixelExperience
 * **PixelMagic**: https://github.com/PixelMagic-OS
 * **PixelOS**: https://github.com/PixelOS-AOSP
+* **PixelOS-GM**: https://github.com/pos-gm
+* **PixelOS-Fourteen**: https://github.com/PixelOS-Fourteen
 * **PixelPlusUI**: https://github.com/PixelPlusUI
 * **PixelStar**: https://github.com/Project-PixelStar
 * **PixysOS**: https://github.com/PixysOS
