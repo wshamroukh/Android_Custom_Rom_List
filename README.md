@@ -16,6 +16,8 @@ List of active Android Custom ROMS
 * **BlissROMs**: https://github.com/BlissRoms
 * **CalyxOS**: https://github.com/calyxos
 * **CarbonROM**: https://github.com/CarbonROM
+* **CardinalOS**: https://github.com/CardinalOS
+* **CelestialDroid**: https://github.com/CelestialDroid
 * **CherishOS**: https://github.com/CherishOS
 * **Cipher OS**: https://github.com/CipherOS
 * **ClownUI**: https://github.com/ClownUI
@@ -41,6 +43,7 @@ List of active Android Custom ROMS
 * **HorizonDroid**: https://github.com/HorizonDroidLab
 * **HorizonDroid-13**: https://github.com/HorizonDroid-13
 * **HZOS-Project**: https://github.com/HZOS-Project
+* **KanojoOS**: https://github.com/KanojoOS
 * **KuroNekoDroid**: https://github.com/KuroNekoDroid
 * **LeafOS-Project**: https://github.com/LeafOS-Project
 * **LessAOSP**: https://github.com/LessAOSP
@@ -59,6 +62,7 @@ List of active Android Custom ROMS
 * **Phoenix**: https://github.com/PhoenixAOSP
 * **PixelBlaster**: https://github.com/PixelBlaster-OS
 * **PixelBuilds**: https://github.com/PixelBuildsROM
+* **PixelBuilds-Staging**: https://github.com/PixelBuilds-Staging
 * **PixelDust Project CAF**: https://github.com/pixeldust-project-caf
 * **PixelExtended ROM**: https://github.com/PixelExtended
 * **PixelExperience**: https://github.com/PixelExperience
