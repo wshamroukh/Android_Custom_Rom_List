@@ -64,6 +64,7 @@ List of active Android Custom ROMS
 * **Project Elixir**: https://github.com/Project-Elixir
 * **Proect Everest**: https://github.com/ProjectEverest
 * **Project ICE**: https://github.com/Project-1CE
+* **Project Infinity X**: https://github.com/ProjectInfinity-X
 * **Project Matrixx**: https://github.com/ProjectMatrixx
 * **Project Mist OS**: https://github.com/Project-Mist-OS
 * **Project Pear OS**: https://github.com/ProjectPearOS
