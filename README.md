@@ -86,6 +86,7 @@ List of active Android Custom ROMS
 * **Syberia Project**: https://github.com/syberia-project
 * **tequilaOS**: https://github.com/tequilaOS
 * **The Parasite Project**: https://github.com/TheParasiteProject
+* **The Pixel Project**:https://github.com/The-Pixel-Project
 * **The XPerience Project**: https://github.com/TheXPerienceProject
 * **VoltageOS**: https://github.com/VoltageOS
 * **Yet another AOSP project (YAAP)**: https://github.com/yaap
