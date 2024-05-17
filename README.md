@@ -5,6 +5,7 @@ List of active Android Custom ROMS
 * **AfterLife Project**: https://github.com/AfterLifePrjkt13
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **amyROM**: https://github.com/amyROM
+* **𝙰𝚙𝚎𝚡 𝙾𝚂**: https://github.com/ApexOS
 * **ArcLine OS**: https://github.com/TeamArcLine
 * **ArrowOS**: https://github.com/ArrowOS
 * **Awaken Xtended**: https://github.com/awaken-xt
@@ -25,6 +26,7 @@ List of active Android Custom ROMS
 * **DroidX-UI**: https://github.com/DroidX-UI
 * **Ethereal-OS**: https://github.com/Ethereal-OS
 * **EthereumPhone**: https://github.com/EthereumPhone
+* **euclidTeam**: https://github.com/euclidTeam
 * **Evolution X**: https://github.com/Evolution-X
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
@@ -65,6 +67,7 @@ List of active Android Custom ROMS
 * **Proect Everest**: https://github.com/ProjectEverest
 * **Project ICE**: https://github.com/Project-1CE
 * **Project Infinity X**: https://github.com/ProjectInfinity-X
+* **Project-Kizashi**: https://github.com/Project-Kizashi
 * **Project Matrixx**: https://github.com/ProjectMatrixx
 * **Project Mist OS**: https://github.com/Project-Mist-OS
 * **Project Pear OS**: https://github.com/ProjectPearOS
@@ -89,5 +92,6 @@ List of active Android Custom ROMS
 * **The Pixel Project**:https://github.com/The-Pixel-Project
 * **The XPerience Project**: https://github.com/TheXPerienceProject
 * **VoltageOS**: https://github.com/VoltageOS
+* **WingsOS**: https://github.com/WingsOS
 * **Yet another AOSP project (YAAP)**: https://github.com/yaap
     
