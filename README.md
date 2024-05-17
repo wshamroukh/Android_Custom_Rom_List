@@ -5,7 +5,7 @@ List of active Android Custom ROMS
 * **AfterLife Project**: https://github.com/AfterLifePrjkt13
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **amyROM**: https://github.com/amyROM
-* **𝙰𝚙𝚎𝚡 𝙾𝚂**: https://github.com/ApexOS
+* **ApexOS**: https://github.com/ApexOS
 * **ArcLine OS**: https://github.com/TeamArcLine
 * **ArrowOS**: https://github.com/ArrowOS
 * **Awaken Xtended**: https://github.com/awaken-xt
