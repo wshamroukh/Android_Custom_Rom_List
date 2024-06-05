@@ -1,6 +1,7 @@
 # List of actively updated Android Custom ROMS
 List of active Android Custom ROMS
 
+* **Advanced XPerience OS (AXP OS)**: https://github.com/AXP-OS
 * **AICP**: https://github.com/AICP
 * **AfterLife Project**: https://github.com/AfterLifePrjkt13
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
@@ -27,7 +28,7 @@ List of active Android Custom ROMS
 * **Ethereal-OS**: https://github.com/Ethereal-OS
 * **EthereumPhone**: https://github.com/EthereumPhone
 * **euclidTeam**: https://github.com/euclidTeam
-* **Evolution X**: https://github.com/Evolution-X
+* **Evolution X**: https://github.com/Evolution-XYZ
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
 * **exTHmUI-Next**: https://github.com/exthmui-next
@@ -44,6 +45,7 @@ List of active Android Custom ROMS
 * **LMODroid (LibreMobileOS)**: https://github.com/LMODroid
 * **LOS Modified**: https://github.com/LOSModified
 * **Miku UI**: https://github.com/Miku-UI
+* **NekoPixel**: https://github.com/NekoPixel
 * **Nitrogen Project**: https://github.com/nitrogen-project
 * **OKcarOS**: https://github.com/okcar-os
 * **omnirom**: https://github.com/omnirom
