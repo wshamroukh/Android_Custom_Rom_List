@@ -3,7 +3,6 @@ List of active Android Custom ROMS
 
 * **Advanced XPerience OS (AXP OS)**: https://github.com/AXP-OS
 * **AICP**: https://github.com/AICP
-* **AfterLife Project**: https://github.com/AfterLifePrjkt13
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **amyROM**: https://github.com/amyROM
 * **ApexOS**: https://github.com/ApexOS
