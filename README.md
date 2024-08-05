@@ -1,6 +1,7 @@
 # List of actively updated Android Custom ROMS
 List of active Android Custom ROMS
 
+* **10X OS**: https://github.com/TenX-OS
 * **Advanced XPerience OS (AXP OS)**: https://github.com/AXP-OS
 * **AfterlifeOS**: https://github.com/AfterlifeOS
 * **AICP**: https://github.com/AICP
@@ -32,6 +33,7 @@ List of active Android Custom ROMS
 * **Ethereal-OS**: https://github.com/Ethereal-OS
 * **EthereumPhone**: https://github.com/EthereumPhone
 * **euclidTeam**: https://github.com/euclidTeam
+* **EunoiaOS** : https://github.com/EunoiaOS
 * **Evolution X**: https://github.com/Evolution-X
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
