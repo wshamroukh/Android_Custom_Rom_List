@@ -11,6 +11,7 @@ List of active Android Custom ROMS
 * **ArcLine OS**: https://github.com/TeamArcLine
 * **ArrowOS**: https://github.com/ArrowOS-new
 * **ArrowOS-Extended** : https://github.com/ArrowOS-Extended
+* **AuroraDroid**: https://github.com/AuroraDroid
 * **Awaken Xtended**: https://github.com/awaken-xt
 * **bananadroid**: https://github.com/bananadroid
 * **Black Iron Project**: https://github.com/Black-Iron-Project
@@ -41,6 +42,7 @@ List of active Android Custom ROMS
 * **halogenOS**: https://github.com/halogenOS
 * **hentaiOS**: https://github.com/hentaiOS
 * **HorizonDroid**: https://github.com/HorizonDroidLab
+* **KusumaOS**: https://github.com/KusumaOS
 * **KuroNekoDroid**: https://github.com/KuroNekoDroid
 * **LeafOS-Project**: https://github.com/LeafOS-Project
 * **LessAOSP**: https://github.com/LessAOSP
@@ -52,7 +54,9 @@ List of active Android Custom ROMS
 * **Nitrogen Project**: https://github.com/nitrogen-project
 * **OKcarOS**: https://github.com/okcar-os
 * **omnirom**: https://github.com/omnirom
+* **OrionOS**: https://github.com/OrionOS-prjkt
 * **Paranoid (AOSPA)**: https://github.com/AOSPA
+* **PenguinOS**: https://github.com/Project-PenguinOS
 * **PixelBlaster**: https://github.com/PixelBlaster-OS
 * **PixelBuilds**: https://github.com/PixelBuildsROM
 * **PixelBuilds-Staging**: https://github.com/PixelBuilds-Staging
