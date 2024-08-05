@@ -2,13 +2,15 @@
 List of active Android Custom ROMS
 
 * **Advanced XPerience OS (AXP OS)**: https://github.com/AXP-OS
+* **AfterlifeOS**: https://github.com/AfterlifeOS
 * **AICP**: https://github.com/AICP
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **AmogOS**: https://github.com/AmogOS-Rom
 * **amyROM**: https://github.com/amyROM
 * **ApexOS**: https://github.com/ApexOS
 * **ArcLine OS**: https://github.com/TeamArcLine
-* **ArrowOS**: https://github.com/ArrowOS
+* **ArrowOS**: https://github.com/ArrowOS-new
+* **ArrowOS-Extended** : https://github.com/ArrowOS-Extended
 * **Awaken Xtended**: https://github.com/awaken-xt
 * **bananadroid**: https://github.com/bananadroid
 * **Black Iron Project**: https://github.com/Black-Iron-Project
@@ -19,6 +21,7 @@ List of active Android Custom ROMS
 * **CelestialDroid**: https://github.com/CelestialDroid
 * **CherishOS**: https://github.com/CherishOS
 * **Cipher OS**: https://github.com/CipherOS
+* **ClownUI**: https://github.com/ClownUI
 * **ColtOS (Enigma)**: https://github.com/Colt-Enigma
 * **crDroid**: https://github.com/crdroidandroid
 * **crDroid X**: https://github.com/crdroidx
@@ -28,7 +31,7 @@ List of active Android Custom ROMS
 * **Ethereal-OS**: https://github.com/Ethereal-OS
 * **EthereumPhone**: https://github.com/EthereumPhone
 * **euclidTeam**: https://github.com/euclidTeam
-* **Evolution X**: https://github.com/Evolution-XYZ
+* **Evolution X**: https://github.com/Evolution-X
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
 * **exTHmUI-Next**: https://github.com/exthmui-next
@@ -80,7 +83,7 @@ List of active Android Custom ROMS
 * **Rising Tech Open Source Software**: https://github.com/RisingTechOSS
 * **ScoopDroid**: https://github.com/ScoopDroid
 * **SigmaDroid-Project**: https://github.com/SigmaDroid-Project
-* **SkylineUI**: https://github.com/SkylineUI
+* **SkylineUI-Reborn**: https://github.com/SkylineUI-Reborn
 * **SOSP-OS**: https://github.com/SOSP-OS
 * **SomethingOS**: https://github.com/SomethingOS
 * **StagOS**: https://github.com/StagOS
