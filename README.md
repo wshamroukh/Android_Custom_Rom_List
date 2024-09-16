@@ -8,9 +8,9 @@ List of active Android Custom ROMS
 * **AlphaDroid**: https://github.com/AlphaDroid-Project
 * **AmogOS**: https://github.com/AmogOS-Rom
 * **amyROM**: https://github.com/amyROM
+* **AospEnhanced**: https://github.com/AospEnhanced
 * **ApexOS**: https://github.com/ApexOS
 * **ArcLine OS**: https://github.com/TeamArcLine
-* **ArrowOS**: https://github.com/ArrowOS-new
 * **ArrowOS-Extended** : https://github.com/ArrowOS-Extended
 * **AuroraDroid**: https://github.com/AuroraDroid
 * **Awaken Xtended**: https://github.com/awaken-xt
@@ -38,8 +38,10 @@ List of active Android Custom ROMS
 * **Evervolv**: https://github.com/Evervolv
 * **exTHmUI**: https://github.com/exthmui
 * **exTHmUI-Next**: https://github.com/exthmui-next
+* **FortuneOS**: https://github.com/fortuneOS-AOSP
 * **GenesisOS**: https://github.com/GenesisOS
 * **GrapheneOS**: https://github.com/GrapheneOS
+* **GXCUI**: https://github.com/GXCUI-AOSP
 * **Halcyon**: https://github.com/halcyonproject
 * **halogenOS**: https://github.com/halogenOS
 * **hentaiOS**: https://github.com/hentaiOS
@@ -101,7 +103,10 @@ List of active Android Custom ROMS
 * **tequilaOS**: https://github.com/tequilaOS
 * **The Parasite Project**: https://github.com/TheParasiteProject
 * **The Pixel Project**:https://github.com/The-Pixel-Project
+* **The Styx Project**: https://github.com/StyxProject
 * **The XPerience Project**: https://github.com/TheXPerienceProject
+* **UltimateOS**: https://github.com/UltimateOS
+* **Vengeance-OS**: https://github.com/Vengeance-OS
 * **VoltageOS**: https://github.com/VoltageOS
 * **WingsOS**: https://github.com/WingsOS
 * **Yet another AOSP project (YAAP)**: https://github.com/yaap
