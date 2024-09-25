@@ -97,7 +97,6 @@ List of active Android Custom ROMS
 * **StagOS**: https://github.com/StagOS
 * **StandartOS Project**: https://github.com/StandartOS
 * **Statix**: https://github.com/StatiXOS
-* **Superior Extended**: https://github.com/SuperiorExtended
 * **Superior OS**: https://github.com/SuperiorOS
 * **Syberia Project**: https://github.com/syberia-project
 * **tequilaOS**: https://github.com/tequilaOS
