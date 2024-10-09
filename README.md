@@ -89,6 +89,7 @@ List of active Android Custom ROMS
 * **Project-Zephyrus**: https://github.com/Project-Zephyrus
 * **ReloadedOS**: https://github.com/ReloadedOS
 * **Rising Tech Open Source Software**: https://github.com/RisingTechOSS
+* **Scandium**: https://github.com/ScandiumOS
 * **ScoopDroid**: https://github.com/ScoopDroid
 * **SigmaDroid-Project**: https://github.com/SigmaDroid-Project
 * **SkylineUI-Reborn**: https://github.com/SkylineUI-Reborn
