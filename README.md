@@ -9,10 +9,12 @@ AlphaDroid  | https://github.com/AlphaDroid-Project
 AospEnhanced  | https://github.com/AospEnhanced
 ArrowOS-Extended  | https://github.com/ArrowOS-Extended
 AuroraDroid  | https://github.com/AuroraDroid
+BlackDuckOS | https://github.com/BlackDuckOS
 Black Iron Project  | https://github.com/Black-Iron-Project
 BlissOS  | https://github.com/BlissOS
 BlissROMs  | https://github.com/BlissRoms
 CalyxOS  | https://github.com/calyxos
+Cavvoh OS | https://github.com/Cavvoh-OS
 CelestialDroid  | https://github.com/CelestialDroid
 CherishOS  | https://github.com/CherishOS
 Cipher OS  | https://github.com/CipherOS
@@ -26,8 +28,9 @@ Ethereal-OS  | https://github.com/Ethereal-OS
 EthereumPhone  | https://github.com/EthereumPhone
 euclidTeam  | https://github.com/euclidTeam
 EunoiaOS  | https://github.com/EunoiaOS
-Evolution X  | https://github.com/Evolution-X
+EverestOS-AOSP | https://github.com/EverestOS-AOSP
 Evervolv  | https://github.com/Evervolv
+Evolution X  | https://github.com/Evolution-X
 exTHmUI-Next  | https://github.com/exthmui-next
 FortuneOS  | https://github.com/fortuneOS-AOSP
 GenesisOS  | https://github.com/GenesisOS
@@ -41,6 +44,7 @@ KusumaOS  | https://github.com/KusumaOS
 LeafOS-Project  | https://github.com/LeafOS-Project
 LessAOSP  | https://github.com/LessAOSP
 LineageOS  | https://github.com/LineageOS
+LiteLineOS | https://github.com/LiteLineOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
@@ -52,6 +56,7 @@ Paranoid (AOSPA)  | https://github.com/AOSPA
 Paranoid-FE | https://github.com/Paranoid-FE
 PenguinOS  | https://github.com/Project-PenguinOS
 PixelBuilds  | https://github.com/PixelBuildsROM
+PixelBuilds-custom | https://github.com/PixelBuilds-custom
 PixelMagic  | https://github.com/PixelMagic-OS
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
@@ -59,6 +64,7 @@ PixelStar  | https://github.com/Project-PixelStar
 PixysOS  | https://github.com/PixysOS
 Project 404  | https://github.com/P-404
 Project Blaze  | https://github.com/ProjectBlaze
+Project Kaleidoscope | https://github.com/Project-Kaleidoscope
 Proect Everest  | https://github.com/ProjectEverest
 Project ICE  | https://github.com/Project-1CE
 Project Infinity X  | https://github.com/ProjectInfinity-X
@@ -82,6 +88,7 @@ The Pixel Project  |https://github.com/The-Pixel-Project
 The Styx Project  | https://github.com/StyxProject
 The XPerience Project  | https://github.com/TheXPerienceProject
 UltimateOS  | https://github.com/UltimateOS
+WitAqua | https://github.com/WitAqua
 
 ## Less active ROMs
 ROM Name | ROM Organization
