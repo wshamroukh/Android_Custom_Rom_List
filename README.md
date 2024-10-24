@@ -44,10 +44,12 @@ LineageOS  | https://github.com/LineageOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
+MotoOS-AOSP | https://github.com/MotoOS-AOSP
 Nitrogen Project  | https://github.com/nitrogen-project
 omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-prjkt
 Paranoid (AOSPA)  | https://github.com/AOSPA
+Paranoid-FE | https://github.com/Paranoid-FE
 PenguinOS  | https://github.com/Project-PenguinOS
 PixelBuilds  | https://github.com/PixelBuildsROM
 PixelMagic  | https://github.com/PixelMagic-OS
@@ -64,6 +66,7 @@ Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
 Project Pear OS  | https://github.com/ProjectPearOS
 Project Sakura  | https://github.com/ProjectSakura
+Pure Pixel | https://github.com/Pure-Pixel
 Rising Tech Open Source Software  | https://github.com/RisingTechOSS
 Scandium  | https://github.com/ScandiumOS
 SigmaDroid-Project  | https://github.com/SigmaDroid-Project
@@ -73,6 +76,7 @@ StagOS  | https://github.com/StagOS
 Statix  | https://github.com/StatiXOS
 Superior OS  | https://github.com/SuperiorOS
 tequilaOS  | https://github.com/tequilaOS
+The AtomX Project | https://github.com/AtomXCLO
 The Parasite Project  | https://github.com/TheParasiteProject
 The Pixel Project  |https://github.com/The-Pixel-Project
 The Styx Project  | https://github.com/StyxProject
