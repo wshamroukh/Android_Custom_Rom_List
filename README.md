@@ -13,6 +13,7 @@ BlackDuckOS | https://github.com/BlackDuckOS
 Black Iron Project  | https://github.com/Black-Iron-Project
 BlissOS  | https://github.com/BlissOS
 BlissROMs  | https://github.com/BlissRoms
+c0smic-Lab | https://github.com/c0smic-Lab/manifest
 CalyxOS  | https://github.com/calyxos
 Cavvoh OS | https://github.com/Cavvoh-OS
 CelestialDroid  | https://github.com/CelestialDroid
