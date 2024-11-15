@@ -6,6 +6,7 @@ Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
 AfterlifeOS  | https://github.com/AfterlifeOS
 AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
+aosPB Project | https://github.com/aosp-pb
 AospEnhanced  | https://github.com/AospEnhanced
 ArrowOS-Extended  | https://github.com/ArrowOS-Extended
 AuroraDroid  | https://github.com/AuroraDroid
@@ -20,6 +21,7 @@ CelestialDroid  | https://github.com/CelestialDroid
 CherishOS  | https://github.com/CherishOS
 Cipher OS  | https://github.com/CipherOS
 ClownUI  | https://github.com/ClownUI
+CorporaOS | https://github.com/Corpora
 crDroid  | https://github.com/crdroidandroid
 crDroid X  | https://github.com/crdroidx
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
@@ -33,7 +35,10 @@ EverestOS-AOSP | https://github.com/EverestOS-AOSP
 Evervolv  | https://github.com/Evervolv
 Evolution X  | https://github.com/Evolution-X
 exTHmUI-Next  | https://github.com/exthmui-next
+FeatherROM | https://github.com/FeatherROM
+FloraOS | https://github.com/FloraOS
 FortuneOS  | https://github.com/fortuneOS-AOSP
+FortuneOS-CAF | https://github.com/FortuneOS-CAF
 GenesisOS  | https://github.com/GenesisOS
 GrapheneOS  | https://github.com/GrapheneOS
 GXCUI  | https://github.com/GXCUI-AOSP
@@ -50,9 +55,11 @@ LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
 MotoOS-AOSP | https://github.com/MotoOS-AOSP
+NexOS | https://github.com/Project-NexOS
 Nitrogen Project  | https://github.com/nitrogen-project
 omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-prjkt
+OrionOS-Project-15 | https://github.com/OrionOS-Project-15
 Paranoid (AOSPA)  | https://github.com/AOSPA
 Paranoid-FE | https://github.com/Paranoid-FE
 PenguinOS  | https://github.com/Project-PenguinOS
@@ -84,10 +91,12 @@ Statix  | https://github.com/StatiXOS
 Superior OS  | https://github.com/SuperiorOS
 tequilaOS  | https://github.com/tequilaOS
 The AtomX Project | https://github.com/AtomXCLO
+The Clover Project | https://github.com/The-Clover-Project
 The Parasite Project  | https://github.com/TheParasiteProject
 The Pixel Project  |https://github.com/The-Pixel-Project
 The Styx Project  | https://github.com/StyxProject
 The XPerience Project  | https://github.com/TheXPerienceProject
+TPP-Labs | https://github.com/TPP-Labs
 UltimateOS  | https://github.com/UltimateOS
 WitAqua | https://github.com/WitAqua
 
