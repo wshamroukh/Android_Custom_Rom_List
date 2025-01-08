@@ -74,6 +74,7 @@ Project 404  | https://github.com/P-404
 Project Blaze  | https://github.com/ProjectBlaze
 Project Kaleidoscope | https://github.com/Project-Kaleidoscope
 Proect Everest  | https://github.com/ProjectEverest
+Project Flare | https://github.com/Project-Flare
 Project ICE  | https://github.com/Project-1CE
 Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
@@ -82,6 +83,7 @@ Project Pear OS  | https://github.com/ProjectPearOS
 Project Sakura  | https://github.com/ProjectSakura
 Pure Pixel | https://github.com/Pure-Pixel
 Rising Tech Open Source Software  | https://github.com/RisingTechOSS
+RvOS | https://github.com/RvOS-CLO
 Scandium  | https://github.com/ScandiumOS
 SigmaDroid-Project  | https://github.com/SigmaDroid-Project
 SkylineUI-Reborn  | https://github.com/SkylineUI-Reborn
