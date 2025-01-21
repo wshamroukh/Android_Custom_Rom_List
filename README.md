@@ -79,7 +79,7 @@ Project Pear OS  | https://github.com/ProjectPearOS
 Project Sakura  | https://github.com/ProjectSakura
 Pure Pixel | https://github.com/Pure-Pixel
 Rising Tech Open Source Software  | https://github.com/RisingTechOSS
-RvOS | https://github.com/RvOS-CLO
+RvOS | https://github.com/RvOS-AOSP
 Scandium  | https://github.com/ScandiumOS
 SigmaDroid-Project  | https://github.com/SigmaDroid-Project
 SkylineUI-Reborn  | https://github.com/SkylineUI-Reborn
