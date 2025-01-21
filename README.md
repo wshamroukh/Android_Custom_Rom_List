@@ -21,11 +21,9 @@ CelestialDroid  | https://github.com/CelestialDroid
 CherishOS  | https://github.com/CherishOS
 Cipher OS  | https://github.com/CipherOS
 ClownUI  | https://github.com/ClownUI
-CorporaOS | https://github.com/Corpora
 crDroid  | https://github.com/crdroidandroid
 crDroid X  | https://github.com/crdroidx
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
-Divested-Mobile  | https://github.com/Divested-Mobile
 DroidX-UI  | https://github.com/DroidX-UI
 Ethereal-OS  | https://github.com/Ethereal-OS
 EthereumPhone  | https://github.com/EthereumPhone
@@ -50,7 +48,6 @@ KusumaOS  | https://github.com/KusumaOS
 LeafOS-Project  | https://github.com/LeafOS-Project
 LessAOSP  | https://github.com/LessAOSP
 LineageOS  | https://github.com/LineageOS
-LiteLineOS | https://github.com/LiteLineOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
@@ -75,7 +72,6 @@ Project Blaze  | https://github.com/ProjectBlaze
 Project Kaleidoscope | https://github.com/Project-Kaleidoscope
 Proect Everest  | https://github.com/ProjectEverest
 Project Flare | https://github.com/Project-Flare
-Project ICE  | https://github.com/Project-1CE
 Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
