@@ -6,6 +6,7 @@ Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
 AfterlifeOS  | https://github.com/AfterlifeOS
 AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
+Astral OS Project | https://github.com/AstralOS-AOSP
 aosPB Project | https://github.com/aosp-pb
 AospEnhanced  | https://github.com/AospEnhanced
 ArrowOS-Extended  | https://github.com/ArrowOS-Extended
@@ -52,6 +53,7 @@ LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
 MotoOS-AOSP | https://github.com/MotoOS-AOSP
+NeutronOS-CLO  | https://github.com/NeutronOS-CLO
 NexOS | https://github.com/Project-NexOS
 Nitrogen Project  | https://github.com/nitrogen-project
 omnirom  | https://github.com/omnirom
@@ -76,7 +78,9 @@ Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
 Project Pear OS  | https://github.com/ProjectPearOS
+Project-Pixelstar | https://github.com/Project-Pixelstar-Fifteen
 Project Sakura  | https://github.com/ProjectSakura
+Project Zenith  | https://github.com/ProjectZenithAOSP
 Pure Pixel | https://github.com/Pure-Pixel
 Rising Tech Open Source Software  | https://github.com/RisingTechOSS
 RvOS-CLO | https://github.com/RvOS-AOSP
