@@ -8,27 +8,19 @@ AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
 Astral OS Project | https://github.com/AstralOS-AOSP
 aosPB Project | https://github.com/aosp-pb
-AospEnhanced  | https://github.com/AospEnhanced
 ArrowOS-Extended  | https://github.com/ArrowOS-Extended
 AuroraDroid  | https://github.com/AuroraDroid
-BlackDuckOS | https://github.com/BlackDuckOS
 Black Iron Project  | https://github.com/Black-Iron-Project
 BlissOS  | https://github.com/BlissOS
 BlissROMs  | https://github.com/BlissRoms
-c0smic-Lab | https://github.com/c0smic-Lab/manifest
+c0smic-Lab | https://github.com/c0smic-Lab
 CalyxOS  | https://github.com/calyxos
-Cavvoh OS | https://github.com/Cavvoh-OS
-CelestialDroid  | https://github.com/CelestialDroid
-CherishOS  | https://github.com/CherishOS
-Cipher OS  | https://github.com/CipherOS
 ClownUI  | https://github.com/ClownUI
 crDroid  | https://github.com/crdroidandroid
 crDroid X  | https://github.com/crdroidx
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
 DroidX-UI  | https://github.com/DroidX-UI
 Ethereal-OS  | https://github.com/Ethereal-OS
-EthereumPhone  | https://github.com/EthereumPhone
-euclidTeam  | https://github.com/euclidTeam
 EunoiaOS  | https://github.com/EunoiaOS
 EverestOS-AOSP | https://github.com/EverestOS-AOSP
 Evervolv  | https://github.com/Evervolv
@@ -40,31 +32,22 @@ FortuneOS  | https://github.com/fortuneOS-AOSP
 FortuneOS-CAF | https://github.com/FortuneOS-CAF
 GenesisOS  | https://github.com/GenesisOS
 GrapheneOS  | https://github.com/GrapheneOS
-GXCUI  | https://github.com/GXCUI-AOSP
 Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
 hentaiOS  | https://github.com/hentaiOS
 HorizonDroid  | https://github.com/HorizonDroidLab
-KusumaOS  | https://github.com/KusumaOS
 LeafOS-Project  | https://github.com/LeafOS-Project
-LessAOSP  | https://github.com/LessAOSP
 LineageOS  | https://github.com/LineageOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 Miku UI  | https://github.com/Miku-UI
-MotoOS-AOSP | https://github.com/MotoOS-AOSP
 NeutronOS-CLO  | https://github.com/NeutronOS-CLO
-NexOS | https://github.com/Project-NexOS
 Nitrogen Project  | https://github.com/nitrogen-project
 omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-prjkt
-OrionOS-Project-15 | https://github.com/OrionOS-Project-15
 Paranoid (AOSPA)  | https://github.com/AOSPA
 Paranoid-FE | https://github.com/Paranoid-FE
-PenguinOS  | https://github.com/Project-PenguinOS
 PixelBuilds  | https://github.com/PixelBuildsROM
-PixelBuilds-custom | https://github.com/PixelBuilds-custom
-PixelMagic  | https://github.com/PixelMagic-OS
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
 PixelStar  | https://github.com/Project-PixelStar
@@ -72,12 +55,10 @@ PixysOS  | https://github.com/PixysOS
 Project 404  | https://github.com/P-404
 Project Blaze  | https://github.com/ProjectBlaze
 Project Kaleidoscope | https://github.com/Project-Kaleidoscope
-Proect Everest  | https://github.com/ProjectEverest
 Project Flare | https://github.com/Project-Flare
 Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
-Project Pear OS  | https://github.com/ProjectPearOS
 Project-Pixelstar | https://github.com/Project-Pixelstar-Fifteen
 Project Sakura  | https://github.com/ProjectSakura
 Project Zenith  | https://github.com/ProjectZenithAOSP
@@ -108,25 +89,40 @@ ROM Name | ROM Organization
 -------:|:-------------------------
 AmogOS  | https://github.com/AmogOS-Rom
 amyROM  | https://github.com/amyROM
+AospEnhanced  | https://github.com/AospEnhanced
 ApexOS  | https://github.com/ApexOS
 ArcLine OS  | https://github.com/TeamArcLine
 Awaken Xtended  | https://github.com/awaken-xt
 bananadroid  | https://github.com/bananadroid
+BlackDuckOS | https://github.com/BlackDuckOS
 CarbonROM  | https://github.com/CarbonROM
+Cavvoh OS | https://github.com/Cavvoh-OS
+CelestialDroid  | https://github.com/CelestialDroid
+CherishOS  | https://github.com/CherishOS
+Cipher OS  | https://github.com/CipherOS
 ColtOS (Enigma)  | https://github.com/Colt-Enigma
+EthereumPhone  | https://github.com/EthereumPhone
+euclidTeam  | https://github.com/euclidTeam
 exTHmUI  | https://github.com/exthmui
+GXCUI  | https://github.com/GXCUI-AOSP
 KuroNekoDroid  | https://github.com/KuroNekoDroid
+KusumaOS  | https://github.com/KusumaOS
 NekoPixel  | https://github.com/NekoPixel
+NexOS | https://github.com/Project-NexOS
 OKcarOS  | https://github.com/okcar-os
+PenguinOS  | https://github.com/Project-PenguinOS
 PixelBlaster  | https://github.com/PixelBlaster-OS
 PixelBuilds-Staging  | https://github.com/PixelBuilds-Staging
 PixelExtended ROM  | https://github.com/PixelExtended
 PixelExperience  | https://github.com/PixelExperience
+PixelMagic  | https://github.com/PixelMagic-OS
 PixelOS-Fourteen  | https://github.com/PixelOS-Fourteen
 PixelOS-Plus  | https://github.com/PixelOSPlus
 Project Awaken  | https://github.com/Project-Awaken
 Project Elixir  | https://github.com/Project-Elixir
+ProjectEverest  | https://github.com/ProjectEverest
 Project-Kizashi  | https://github.com/Project-Kizashi
+Project Pear OS  | https://github.com/ProjectPearOS
 ProectWings  | https://github.com/ProjectWings
 Project-Zephyrus  | https://github.com/Project-Zephyrus
 ReloadedOS  | https://github.com/ReloadedOS
