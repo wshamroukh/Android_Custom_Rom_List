@@ -81,7 +81,6 @@ The Pixel Project  |https://github.com/The-Pixel-Project
 The Styx Project  | https://github.com/StyxProject
 The XPerience Project  | https://github.com/TheXPerienceProject
 TPP-Labs | https://github.com/TPP-Labs
-UltimateOS  | https://github.com/UltimateOS
 WitAqua | https://github.com/WitAqua
 
 ## Less active ROMs
@@ -130,3 +129,4 @@ ScoopDroid  | https://github.com/ScoopDroid
 SOSP-OS  | https://github.com/SOSP-OS
 StandartOS Project  | https://github.com/StandartOS
 Syberia Project  | https://github.com/syberia-project
+UltimateOS  | https://github.com/UltimateOS
