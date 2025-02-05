@@ -18,6 +18,7 @@ CalyxOS  | https://github.com/calyxos
 ClownUI  | https://github.com/ClownUI
 crDroid  | https://github.com/crdroidandroid
 crDroid X  | https://github.com/crdroidx
+Crooked Android | https://github.com/CrookedAndroid
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
 DroidX-UI  | https://github.com/DroidX-UI
 Ethereal-OS  | https://github.com/Ethereal-OS
@@ -63,7 +64,8 @@ Project-Pixelstar | https://github.com/Project-Pixelstar-Fifteen
 Project Sakura  | https://github.com/ProjectSakura
 Project Zenith  | https://github.com/ProjectZenithAOSP
 Pure Pixel | https://github.com/Pure-Pixel
-Rising Tech Open Source Software  | https://github.com/RisingTechOSS
+RisingOS Revived  | https://github.com/RisingOS-Revived
+RisingOS OSS | https://github.com/RisingOS-OSS
 RvOS-CLO | https://github.com/RvOS-AOSP
 RvOS-CLO | https://github.com/RvOS-CLO
 Scandium  | https://github.com/ScandiumOS
