@@ -50,7 +50,6 @@ Paranoid-FE | https://github.com/Paranoid-FE
 PixelBuilds  | https://github.com/PixelBuildsROM
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
-PixelStar  | https://github.com/Project-PixelStar
 PixysOS  | https://github.com/PixysOS
 Project 404  | https://github.com/P-404
 Project Blaze  | https://github.com/ProjectBlaze
