@@ -7,7 +7,6 @@ AfterlifeOS  | https://github.com/AfterlifeOS
 AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
 Astral OS Project | https://github.com/AstralOS-AOSP
-aosPB Project | https://github.com/aosp-pb
 ArrowOS-Extended  | https://github.com/ArrowOS-Extended
 AuroraDroid  | https://github.com/AuroraDroid
 Black Iron Project  | https://github.com/Black-Iron-Project
