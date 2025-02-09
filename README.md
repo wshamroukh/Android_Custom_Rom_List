@@ -59,6 +59,7 @@ Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
 Project-Pixelstar | https://github.com/Project-Pixelstar-Fifteen
+Project Pixelage | https://github.com/ProjectPixelage/
 Project Sakura  | https://github.com/ProjectSakura
 Project Zenith  | https://github.com/ProjectZenithAOSP
 Pure Pixel | https://github.com/Pure-Pixel
