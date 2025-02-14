@@ -44,7 +44,7 @@ Miku UI  | https://github.com/Miku-UI
 NeutronOS-CLO  | https://github.com/NeutronOS-CLO
 Nitrogen Project  | https://github.com/nitrogen-project
 omnirom  | https://github.com/omnirom
-OrionOS  | https://github.com/OrionOS-prjkt
+OrionOS  | https://github.com/OrionOS-Project
 Paranoid (AOSPA)  | https://github.com/AOSPA
 Paranoid-FE | https://github.com/Paranoid-FE
 PixelBuilds  | https://github.com/PixelBuildsROM
@@ -65,6 +65,7 @@ Project Zenith  | https://github.com/ProjectZenithAOSP
 Pure Pixel | https://github.com/Pure-Pixel
 RisingOS Revived  | https://github.com/RisingOS-Revived
 RisingOS OSS | https://github.com/RisingOS-OSS
+RyuUI | https://github.com/RyuUI-Org
 RvOS-CLO | https://github.com/RvOS-AOSP
 RvOS-CLO | https://github.com/RvOS-CLO
 Scandium  | https://github.com/ScandiumOS
