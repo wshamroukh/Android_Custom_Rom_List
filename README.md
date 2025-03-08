@@ -36,6 +36,7 @@ Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
 hentaiOS  | https://github.com/hentaiOS
 HorizonDroid  | https://github.com/HorizonDroidLab
+Komodo OS | https://github.com/Komodo-OS
 LeafOS-Project  | https://github.com/LeafOS-Project
 LineageOS  | https://github.com/LineageOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
@@ -47,6 +48,7 @@ omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-Project
 Paranoid (AOSPA)  | https://github.com/AOSPA
 Paranoid-FE | https://github.com/Paranoid-FE
+Phoenix OS | https://github.com/Phoenix-rom
 PixelBuilds  | https://github.com/PixelBuildsROM
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
