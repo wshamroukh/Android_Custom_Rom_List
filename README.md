@@ -68,7 +68,7 @@ Pure Pixel | https://github.com/Pure-Pixel
 RisingOS Revived  | https://github.com/RisingOS-Revived
 RisingOS OSS | https://github.com/RisingOS-OSS
 RyuUI | https://github.com/RyuUI-Org
-RvOS-CLO | https://github.com/RvOS-AOSP
+RvOS-AOSP | https://github.com/RvOS-AOSP
 RvOS-CLO | https://github.com/RvOS-CLO
 Scandium  | https://github.com/ScandiumOS
 SigmaDroid-Project  | https://github.com/SigmaDroid-Project
