@@ -4,6 +4,7 @@ ROM Name | ROM Organization
 Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
 AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
+AnacondaOS | https://github.com/AnacondaOS
 ArfoxOS | https://github.com/arfoxos
 AxionAOSP | https://github.com/AxionAOSP
 Black Iron Project  | https://github.com/Black-Iron-Project
@@ -35,6 +36,7 @@ LineageOS  | https://github.com/LineageOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LotusOS | https://github.com/LotusOS
 LOS Modified  | https://github.com/LOSModified
+LumineDroid | https://github.com/LumineDroid
 Miku UI  | https://github.com/Miku-UI
 NeutronOS-CLO  | https://github.com/NeutronOS-CLO
 omnirom  | https://github.com/omnirom
