@@ -37,7 +37,10 @@ LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LotusOS | https://github.com/LotusOS
 LOS Modified  | https://github.com/LOSModified
 LumineDroid | https://github.com/LumineDroid
+Lunaris-AOSP | https://github.com/Lunaris-AOSP
+LyraOS | https://github.com/LyraOS
 Miku UI  | https://github.com/Miku-UI
+Neoteric-OS | https://github.com/Neoteric-OS
 NeutronOS-CLO  | https://github.com/NeutronOS-CLO
 omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-Project
@@ -57,6 +60,7 @@ Project Sakura  | https://github.com/ProjectSakura
 Project Zenith  | https://github.com/ProjectZenithAOSP
 RisingOS Revived  | https://github.com/RisingOS-Revived
 RyuUI | https://github.com/RyuUI-Org
+RyuOS | https://github.com/RyuOS-Org
 RvOS-CLO | https://github.com/RvOS-CLO
 Scandium  | https://github.com/ScandiumOS
 SigmaDroid-Project  | https://github.com/SigmaDroid-Project
