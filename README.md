@@ -6,6 +6,7 @@ AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
 AnacondaOS | https://github.com/AnacondaOS
 ArfoxOS | https://github.com/arfoxos
+AviumUI | https://github.com/AviumUI
 AxionAOSP | https://github.com/AxionAOSP
 Black Iron Project  | https://github.com/Black-Iron-Project
 BlissOS  | https://github.com/BlissOS
@@ -19,6 +20,7 @@ Crooked Android | https://github.com/CrookedAndroid
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
 DroidX-UI  | https://github.com/DroidX-UI
 Ethereal-OS  | https://github.com/Ethereal-OS
+euclidTeam | https://github.com/euclidTeam
 Evervolv  | https://github.com/Evervolv
 Evolution X  | https://github.com/Evolution-X
 FeatherROM | https://github.com/FeatherROM
@@ -30,6 +32,7 @@ GrapheneOS  | https://github.com/GrapheneOS
 Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
 hentaiOS  | https://github.com/hentaiOS
+HertzifyOS | https://github.com/HertzifyOS
 Komodo OS | https://github.com/Komodo-OS
 LessAOSP | https://github.com/LessAOSP
 LineageOS  | https://github.com/LineageOS
