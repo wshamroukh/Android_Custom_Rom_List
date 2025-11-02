@@ -22,11 +22,13 @@ GrapheneOS  | https://github.com/GrapheneOS
 Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
 HertzifyOS | https://github.com/HertzifyOS
+HZOS Project | https://github.com/hzosprj
 LineageOS  | https://github.com/LineageOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LotusOS | https://github.com/LotusOS
 LOS Modified  | https://github.com/LOSModified
 Lunaris-AOSP | https://github.com/Lunaris-AOSP
+LumineDroid | https://github.com/LumineDroid
 Miku UI  | https://github.com/Miku-UI
 Neoteric-OS | https://github.com/Neoteric-OS
 omnirom  | https://github.com/omnirom
@@ -36,6 +38,7 @@ PixelBuilds  | https://github.com/PixelBuildsROM
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
 Project 404  | https://github.com/P-404
+Project-1CE | https://github.com/Project-1CE
 Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
