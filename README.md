@@ -29,6 +29,7 @@ LotusOS | https://github.com/LotusOS
 LOS Modified  | https://github.com/LOSModified
 Lunaris-AOSP | https://github.com/Lunaris-AOSP
 LumineDroid | https://github.com/LumineDroid
+MicaOS | https://github.com/Project-Mica
 Miku UI  | https://github.com/Miku-UI
 Neoteric-OS | https://github.com/Neoteric-OS
 omnirom  | https://github.com/omnirom
