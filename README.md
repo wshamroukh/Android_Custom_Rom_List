@@ -39,9 +39,11 @@ Paranoid (AOSPA)  | https://github.com/AOSPA
 PixelBuilds  | https://github.com/PixelBuildsROM
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
+Pixium-AOSP | https://github.com/Pixium-AOSP
 Project 404  | https://github.com/P-404
 Project-1CE | https://github.com/Project-1CE
 Project Infinity X  | https://github.com/ProjectInfinity-X
+ProjectLisa-AOSP | https://github.com/ProjectLisa-AOSP
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
 Project Pixelage | https://github.com/ProjectPixelage/
