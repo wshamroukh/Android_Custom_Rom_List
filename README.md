@@ -10,6 +10,7 @@ AviumUI | https://github.com/AviumUI
 AxionAOSP | https://github.com/AxionAOSP
 Black Iron Project  | https://github.com/Black-Iron-Project
 BlissROMs  | https://github.com/BlissRoms
+BodyOS | https://github.com/body-rom
 CalyxOS  | https://github.com/calyxos
 crDroid  | https://github.com/crdroidandroid
 crDroid X  | https://github.com/crdroidx
