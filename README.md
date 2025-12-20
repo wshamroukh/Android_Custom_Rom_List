@@ -4,8 +4,8 @@ ROM Name | ROM Organization
 Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
 AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
-AustrionOS | https://github.com/AustrionOS
 ArfoxOS | https://github.com/arfoxos
+AstoriaOS | https://github.com/astoriaOS
 AviumUI | https://github.com/AviumUI
 AxionAOSP | https://github.com/AxionAOSP
 Black Iron Project  | https://github.com/Black-Iron-Project
@@ -47,9 +47,11 @@ Project Infinity X  | https://github.com/ProjectInfinity-X
 ProjectLisa-AOSP | https://github.com/ProjectLisa-AOSP
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
+Project Nirwana | https://github.com/ProjectNirwana
 Project Pixelage | https://github.com/ProjectPixelage/
 Project Sakura  | https://github.com/ProjectSakura
-RisingOS Revived  | https://github.com/RisingOS-Revived
+ResonanceDroid | https://github.com/ResonanceDroid
+RisingOS Revived | https://github.com/RisingOS-Revived
 RvOS-CLO | https://github.com/RvOS-CLO
 Statix  | https://github.com/StatiXOS
 SunOS Project | https://github.com/SunOS-Project
