@@ -25,10 +25,8 @@ GrapheneOS  | https://github.com/GrapheneOS
 Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
 HertzifyOS | https://github.com/HertzifyOS
-HZOS Project | https://github.com/hzosprj
 LineageOS  | https://github.com/LineageOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
-LotusOS | https://github.com/LotusOS
 LOS Modified  | https://github.com/LOSModified
 Lunaris-AOSP | https://github.com/Lunaris-AOSP
 LumineDroid | https://github.com/LumineDroid
@@ -50,9 +48,7 @@ ProjectLisa-AOSP | https://github.com/ProjectLisa-AOSP
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
 Project Nirwana | https://github.com/ProjectNirwana
-Project Pixelage | https://github.com/ProjectPixelage/
 Project Sakura  | https://github.com/ProjectSakura
-ResonanceDroid | https://github.com/ResonanceDroid
 RisingOS Revived | https://github.com/RisingOS-Revived
 RvOS-CLO | https://github.com/RvOS-CLO
 Statix  | https://github.com/StatiXOS
