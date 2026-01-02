@@ -17,7 +17,7 @@ crDroid  | https://github.com/crdroidandroid
 crDroid X  | https://github.com/crdroidx
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
 Ethereal-OS  | https://github.com/Ethereal-OS
-euclidTeam | https://github.com/euclidTeam
+euclidOS | https://github.com/euclidOS-AOSP
 Evervolv  | https://github.com/Evervolv
 Evolution X  | https://github.com/Evolution-X
 FeatherROM | https://github.com/FeatherROM
