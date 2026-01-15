@@ -51,7 +51,8 @@ Project Nirwana | https://github.com/ProjectNirwana
 Project Sakura  | https://github.com/ProjectSakura
 RisingOS Revived | https://github.com/RisingOS-Revived
 RvOS-CLO | https://github.com/RvOS-CLO
-Statix  | https://github.com/StatiXOS
+StatiXOS  | https://github.com/StatiXOS
+StatiXOS-Staging | https://github.com/stx-staging
 SunOS Project | https://github.com/SunOS-Project
 Superior OS  | https://github.com/SuperiorOS
 The Clover Project | https://github.com/The-Clover-Project
