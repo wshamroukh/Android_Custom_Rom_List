@@ -42,6 +42,7 @@ omnirom  | https://github.com/omnirom
 OrionOS  | https://github.com/OrionOS-Project
 Paranoid (AOSPA)  | https://github.com/AOSPA
 PixelBuilds  | https://github.com/PixelBuildsROM
+PixelLines | https://github.com/PixelLines
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
 Pixium-AOSP | https://github.com/Pixium-AOSP
