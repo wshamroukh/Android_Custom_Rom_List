@@ -13,6 +13,7 @@ BlissROMs  | https://github.com/BlissRoms
 BodyOS | https://github.com/body-rom
 CaesiumOS | https://github.com/CaesiumOS
 CalyxOS  | https://github.com/calyxos
+CharaROM | https://github.com/CharaROMAndroid
 crDroid  | https://github.com/crdroidandroid
 crDroid X  | https://github.com/crdroidx
 DerpFest AOSP  | https://github.com/DerpFest-AOSP
@@ -29,8 +30,10 @@ HertzifyOS | https://github.com/HertzifyOS
 LineageOS  | https://github.com/LineageOS
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
+LunaOS | https://github.com/TheLunaOS
 Lunaris-AOSP | https://github.com/Lunaris-AOSP
 LumineDroid | https://github.com/LumineDroid
+Lynx-AOSP | https://github.com/Lynx-AOSP
 MicaOS | https://github.com/Project-Mica
 Miku UI  | https://github.com/Miku-UI
 MinusOS | https://github.com/Project-MinusOS
