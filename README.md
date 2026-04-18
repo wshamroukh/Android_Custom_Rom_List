@@ -62,7 +62,6 @@ StatiXOS-Staging | https://github.com/stx-staging
 SunOS Project | https://github.com/SunOS-Project
 Superior OS  | https://github.com/SuperiorOS
 The Clover Project | https://github.com/The-Clover-Project
-The Pixel Project  |https://github.com/The-Pixel-Project
 The XPerience Project  | https://github.com/TheXPerienceProject
 WitAqua | https://github.com/WitAqua
 YAAP | https://github.com/YAAP
