@@ -35,7 +35,6 @@ LunaOS | https://github.com/TheLunaOS
 Lunaris-AOSP | https://github.com/Lunaris-AOSP
 LumineDroid | https://github.com/LumineDroid
 Lynx-AOSP | https://github.com/Lynx-AOSP
-MicaOS | https://github.com/Project-Mica
 Miku UI  | https://github.com/Miku-UI
 MinusOS | https://github.com/Project-MinusOS
 Neoteric-OS | https://github.com/Neoteric-OS
