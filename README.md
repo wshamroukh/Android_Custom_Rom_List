@@ -23,7 +23,6 @@ euclidOS | https://github.com/euclidOS-AOSP
 EunoiaOS | https://github.com/EunoiaOS
 Evervolv  | https://github.com/Evervolv
 Evolution X  | https://github.com/Evolution-X
-FeatherROM | https://github.com/FeatherROM
 GrapheneOS  | https://github.com/GrapheneOS
 Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
