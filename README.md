@@ -8,7 +8,6 @@ AviumUI | https://github.com/AviumUI
 AxionAOSP | https://github.com/AxionAOSP
 AyakaUI | https://github.com/AyakaUI
 BlissROMs  | https://github.com/BlissRoms
-BodyOS | https://github.com/body-rom
 CaesiumOS | https://github.com/CaesiumOS
 CalyxOS  | https://github.com/calyxos
 CharaROM | https://github.com/CharaROMAndroid
