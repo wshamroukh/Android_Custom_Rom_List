@@ -2,10 +2,10 @@
 ROM Name | ROM Organization
 -------:|:-------------------------
 Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
-Alch3myOS | https://github.com/Alch3myOS
-Altair ROM | https://github.com/AltairROM
 AICP  | https://github.com/AICP
+Alch3myOS | https://github.com/Alch3myOS
 AlphaDroid  | https://github.com/AlphaDroid-Project
+Altair ROM | https://github.com/AltairROM
 AviumUI | https://github.com/AviumUI
 AxionAOSP | https://github.com/AxionAOSP
 AyakaUI | https://github.com/AyakaUI
