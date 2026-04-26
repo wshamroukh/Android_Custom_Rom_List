@@ -4,7 +4,6 @@ ROM Name | ROM Organization
 Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
 AICP  | https://github.com/AICP
 AlphaDroid  | https://github.com/AlphaDroid-Project
-ArfoxOS | https://github.com/arfoxos
 AstoriaOS | https://github.com/astoriaOS
 AviumUI | https://github.com/AviumUI
 AxionAOSP | https://github.com/AxionAOSP
