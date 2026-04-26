@@ -7,7 +7,6 @@ AlphaDroid  | https://github.com/AlphaDroid-Project
 AviumUI | https://github.com/AviumUI
 AxionAOSP | https://github.com/AxionAOSP
 AyakaUI | https://github.com/AyakaUI
-Black Iron Project  | https://github.com/Black-Iron-Project
 BlissROMs  | https://github.com/BlissRoms
 BodyOS | https://github.com/body-rom
 CaesiumOS | https://github.com/CaesiumOS
