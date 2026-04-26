@@ -40,7 +40,6 @@ PixelOS-GM  | https://github.com/pos-gm
 Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
-Project Nirwana | https://github.com/ProjectNirwana
 Project Sakura  | https://github.com/ProjectSakura
 RisingOS Revived | https://github.com/RisingOS-Revived
 RvOS-CLO | https://github.com/RvOS-CLO
