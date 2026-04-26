@@ -17,7 +17,6 @@ DerpFest AOSP  | https://github.com/DerpFest-AOSP
 Ethereal-OS  | https://github.com/Ethereal-OS
 euclidOS | https://github.com/euclidOS-AOSP
 EunoiaOS | https://github.com/EunoiaOS
-Evervolv  | https://github.com/Evervolv
 Evolution X  | https://github.com/Evolution-X
 GrapheneOS  | https://github.com/GrapheneOS
 Halcyon  | https://github.com/halcyonproject
