@@ -37,7 +37,6 @@ PixelBuilds  | https://github.com/PixelBuildsROM
 PixelLines | https://github.com/PixelLines
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
-Project 404  | https://github.com/P-404
 Project-1CE | https://github.com/Project-1CE
 Project Infinity X  | https://github.com/ProjectInfinity-X
 ProjectLisa-AOSP | https://github.com/ProjectLisa-AOSP
