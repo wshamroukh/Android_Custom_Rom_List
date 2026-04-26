@@ -58,5 +58,6 @@ The Clover Project | https://github.com/The-Clover-Project
 The XPerience Project  | https://github.com/TheXPerienceProject
 VoltageOS | https://github.com/VoltageOS
 WitAqua | https://github.com/WitAqua
+xdroid-oss | https://github.com/xdroid-oss
 YAAP | https://github.com/YAAP
 YAAPex | https://github.com/yaapex
