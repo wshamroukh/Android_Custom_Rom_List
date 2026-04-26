@@ -46,6 +46,7 @@ Project Infinity X  | https://github.com/ProjectInfinity-X
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
 Project Sakura  | https://github.com/ProjectSakura
+Soul AOSP | https://github.com/KyThien-Project
 StatiXOS  | https://github.com/StatiXOS
 StatiXOS-Staging | https://github.com/stx-staging
 SunOS Project | https://github.com/SunOS-Project
