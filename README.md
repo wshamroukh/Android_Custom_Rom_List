@@ -27,6 +27,7 @@ Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
 HertzifyOS | https://github.com/HertzifyOS
 LineageOS  | https://github.com/LineageOS
+LineageOS-Ext | https://github.com/Los-Ext
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid
 LOS Modified  | https://github.com/LOSModified
 LunaOS | https://github.com/TheLunaOS
