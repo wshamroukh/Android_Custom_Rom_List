@@ -53,3 +53,4 @@ The XPerience Project  | https://github.com/TheXPerienceProject
 VoltageOS | https://github.com/VoltageOS
 WitAqua | https://github.com/WitAqua
 YAAP | https://github.com/YAAP
+YAAPex | https://github.com/yaapex
