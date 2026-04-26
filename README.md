@@ -23,7 +23,6 @@ euclidOS | https://github.com/euclidOS-AOSP
 EunoiaOS | https://github.com/EunoiaOS
 Evervolv  | https://github.com/Evervolv
 Evolution X  | https://github.com/Evolution-X
-FeatherROM | https://github.com/FeatherROM
 GrapheneOS  | https://github.com/GrapheneOS
 Halcyon  | https://github.com/halcyonproject
 halogenOS  | https://github.com/halogenOS
@@ -62,5 +61,6 @@ SunOS Project | https://github.com/SunOS-Project
 Superior OS  | https://github.com/SuperiorOS
 The Clover Project | https://github.com/The-Clover-Project
 The XPerience Project  | https://github.com/TheXPerienceProject
+VoltageOS | https://github.com/VoltageOS
 WitAqua | https://github.com/WitAqua
 YAAP | https://github.com/YAAP
