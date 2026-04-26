@@ -32,7 +32,6 @@ Lynx-AOSP | https://github.com/Lynx-AOSP
 Miku UI  | https://github.com/Miku-UI
 Neoteric-OS | https://github.com/Neoteric-OS
 omnirom  | https://github.com/omnirom
-OrionOS  | https://github.com/OrionOS-Project
 Paranoid (AOSPA)  | https://github.com/AOSPA
 PixelBuilds  | https://github.com/PixelBuildsROM
 PixelLines | https://github.com/PixelLines
