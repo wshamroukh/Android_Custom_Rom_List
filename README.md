@@ -34,6 +34,7 @@ Neoteric-OS | https://github.com/Neoteric-OS
 omnirom  | https://github.com/omnirom
 Paranoid (AOSPA)  | https://github.com/AOSPA
 PixelBuilds  | https://github.com/PixelBuildsROM
+Project Flare | https://github.com/Project-Flare-Staging
 PixelLines | https://github.com/PixelLines
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
