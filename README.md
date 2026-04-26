@@ -10,6 +10,7 @@ Android Open Source Project Mirror (unofficial) | https://github.com/aosp-mirror
 AviumUI | https://github.com/AviumUI
 AxionAOSP | https://github.com/AxionAOSP
 AyakaUI | https://github.com/AyakaUI
+BenzeneOS | https://github.com/BenzeneOS
 BlissROMs  | https://github.com/BlissRoms
 CaesiumOS | https://github.com/CaesiumOS
 CalyxOS  | https://github.com/calyxos
