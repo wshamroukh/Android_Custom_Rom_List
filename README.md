@@ -14,6 +14,7 @@ BenzeneOS | https://github.com/BenzeneOS
 BlissROMs  | https://github.com/BlissRoms
 CaesiumOS | https://github.com/CaesiumOS
 CalyxOS  | https://github.com/calyxos
+chaoticOS | https://github.com/chaoticOS
 CharaROM | https://github.com/CharaROMAndroid
 crDroid  | https://github.com/crdroidandroid
 crDroid X  | https://github.com/crdroidx
