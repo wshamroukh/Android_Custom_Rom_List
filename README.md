@@ -52,6 +52,7 @@ StatiXOS  | https://github.com/StatiXOS
 StatiXOS-Staging | https://github.com/stx-staging
 SunOS Project | https://github.com/SunOS-Project
 Superior OS  | https://github.com/SuperiorOS
+The ChAOSP Project (TCAP) | https://github.com/TCAP-AOSP
 The Clover Project | https://github.com/The-Clover-Project
 The XPerience Project  | https://github.com/TheXPerienceProject
 VoltageOS | https://github.com/VoltageOS
