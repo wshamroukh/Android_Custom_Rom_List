@@ -38,7 +38,6 @@ PixelLines | https://github.com/PixelLines
 PixelOS  | https://github.com/PixelOS-AOSP
 PixelOS-GM  | https://github.com/pos-gm
 Project Infinity X  | https://github.com/ProjectInfinity-X
-ProjectLisa-AOSP | https://github.com/ProjectLisa-AOSP
 Project Matrixx  | https://github.com/ProjectMatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS
 Project Nirwana | https://github.com/ProjectNirwana
