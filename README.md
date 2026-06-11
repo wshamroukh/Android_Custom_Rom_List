@@ -60,4 +60,3 @@ VoltageOS | https://github.com/VoltageOS | https://t.me/voltageos, https://t.me/
 WitAqua | https://github.com/WitAqua
 xdroid-oss | https://github.com/xdroid-oss | https://t.me/xdroid_chat, https://t.me/xdroidOSS, https://t.me/xdroid_update
 YAAP | https://github.com/YAAP | https://t.me/yaapcommon, https://t.me/yaapupdates
-YAAPex | https://github.com/yaapex
