@@ -22,6 +22,7 @@ Ethereal-OS  | https://github.com/Ethereal-OS | https://t.me/ETHEREAL_OS
 euclidOS | https://github.com/euclidOS-AOSP | https://t.me/euclidoschat, https://t.me/euclidOSupdates, https://t.me/euclid_buildsupport
 EunoiaOS | https://github.com/EunoiaOS | https://t.me/EunoiaOS_chat, https://t.me/EunoiaOS
 Evolution X  | https://github.com/Evolution-X | https://discord.gg/Evolution-X, https://t.me/EvolutionXOfficialROM, https://t.me/EvolutionXOfficial, https://t.me/EvolutionXUpdates
+GenesisOS  | https://github.com/GenesisOS | https://t.me/TheGenesisOS, https://t.me/GenesisOSChat
 GrapheneOS  | https://github.com/GrapheneOS | https://t.me/GrapheneOS
 Halcyon  | https://github.com/halcyonproject | https://t.me/hlcynprjct, https://t.me/hlcynprjctchat
 halogenOS  | https://github.com/halogenOS | https://t.me/halogenOS, https://discord.gg/jqEvUNWHWD, https://t.me/xos_news
