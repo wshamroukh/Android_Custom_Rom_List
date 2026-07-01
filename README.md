@@ -1,11 +1,13 @@
 ROM Name | ROM Organization | ROM TG/Discord
 -------:|:-------------------------|:-------------------------
 Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
+AetheriaOS | https://github.com/AetheriaOS | https://t.me/AetheriaOS_AOSP
 AICP  | https://github.com/AICP | https://discord.gg/nMQUVRD
 Alch3myOS | https://github.com/Alch3myOS | https://t.me/LibraAlch3my
 AlphaDroid  | https://github.com/AlphaDroid-Project | https://t.me/alphadroid_chat
 Altair ROM | https://github.com/AltairROM
 Android Open Source Project Mirror (unofficial) | https://github.com/aosp-mirror-neo
+ASCP OSS | https://github.com/ascp-oss
 AviumUI | https://github.com/AviumUI | https://t.me/aviumuichat, https://t.me/avium_update, https://t.me/AviumUI
 AxionAOSP | https://github.com/AxionAOSP | https://t.me/AxionOS_android_chat, https://t.me/AxionOS_android, https://t.me/AxionOS_android_builders
 AyakaUI | https://github.com/AyakaUI | https://t.me/AyakaUIChat, https://t.me/AyakaUI
@@ -43,10 +45,12 @@ Project Flare | https://github.com/Project-Flare-Staging | https://t.me/ProjectF
 PixelLines | https://github.com/PixelLines | https://t.me/PixelLines
 PixelOS  | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
 PixelOS-GM  | https://github.com/pos-gm
+Project CiRCLE | https://github.com/ProjectCiRCLE-ROM
 Project Infinity X  | https://github.com/ProjectInfinity-X | https://t.me/InfinityXGroup, https://t.me/InfinityXUpdate, https://t.me/ProjectInfinityX
 Project Matrixx  | https://github.com/ProjectMatrixx | https://t.me/matrixx_community, https://t.me/projectmatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscussion, https://t.me/MistOSUpdate
 Project Sakura  | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
+RuriseOS | https://github.com/RuriseOS
 Soul AOSP | https://github.com/KyThien-Project
 StatiXOS  | https://github.com/StatiXOS | https://t.me/StatiXOSReleases
 StatiXOS-Staging | https://github.com/stx-staging | https://t.me/StatiXOSReleases
@@ -55,6 +59,7 @@ Superior OS  | https://github.com/SuperiorOS | https://t.me/superioros, https://
 The ChAOSP Project (TCAP) | https://github.com/TCAP-AOSP
 The Clover Project | https://github.com/The-Clover-Project | https://t.me/TheCloverProject_Chat, https://t.me/The_Clover_Project
 The XPerience Project  | https://github.com/TheXPerienceProject | https://t.me/xperiencechat, https://t.me/xperiencereleases
+uwuAOSP | https://github.com/uwuAOSP
 VoltageOS | https://github.com/VoltageOS | https://t.me/voltageos, https://t.me/voltageosannouncements, https://t.me/voltageos, https://t.me/VoltageOSSupport
 WitAqua | https://github.com/WitAqua
 xdroid-oss | https://github.com/xdroid-oss | https://t.me/xdroid_chat, https://t.me/xdroidOSS, https://t.me/xdroid_update
