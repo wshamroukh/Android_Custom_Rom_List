@@ -48,7 +48,6 @@ PixelOS  | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t
 PixelOS-GM  | https://github.com/pos-gm
 Project CiRCLE | https://github.com/ProjectCiRCLE-ROM
 Project Infinity X  | https://github.com/ProjectInfinity-X | https://t.me/InfinityXGroup, https://t.me/InfinityXUpdate, https://t.me/ProjectInfinityX
-Project Matrixx  | https://github.com/ProjectMatrixx | https://t.me/matrixx_community, https://t.me/projectmatrixx
 Project Mist OS  | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscussion, https://t.me/MistOSUpdate
 Project Nirwana | https://github.com/ProjectNirwana
 Project Sakura  | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
