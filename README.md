@@ -21,6 +21,7 @@ CharcoalAOSP | https://github.com/charcoalAOSP | https://t.me/cAOSPUpdates
 crDroid  | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, https://t.me/crDroidUpdates
 crDroid X  | https://github.com/crdroidx
 DerpFest AOSP  | https://github.com/DerpFest-AOSP | https://t.me/DerpFestAOSP, https://t.me/derpfestupdates
+Edith-AOSP | https://github.com/Edith-AOSP
 Ethereal-OS  | https://github.com/Ethereal-OS | https://t.me/ETHEREAL_OS
 euclidOS | https://github.com/euclidOS-AOSP | https://t.me/euclidoschat, https://t.me/euclidOSupdates, https://t.me/euclid_buildsupport
 EunoiaOS | https://github.com/EunoiaOS | https://t.me/EunoiaOS_chat, https://t.me/EunoiaOS
