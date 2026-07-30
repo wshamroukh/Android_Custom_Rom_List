@@ -39,6 +39,7 @@ LumineDroid | https://github.com/LumineDroid | https://t.me/LumineDroidChat, htt
 Lynx-AOSP | https://github.com/Lynx-AOSP
 Miku UI  | https://github.com/Miku-UI | https://t.me/mikuuirelease
 Neoteric-OS | https://github.com/Neoteric-OS | https://t.me/neotericfam, https://t.me/NeotericOS_Chat
+Nucleus OS | https://github.com/nucleus-os
 omnirom  | https://github.com/omnirom | https://t.me/OmniROM_Community
 Paranoid (AOSPA)  | https://github.com/AOSPA | https://t.me/stayparanoid, https://t.me/paranoidandroidofficial
 PixelBuilds  | https://github.com/PixelBuildsROM | https://t.me/PixelBuildsChat, https://t.me/PixelBuildsUpdates, https://t.me/PixelBuildsReleases
