@@ -50,7 +50,7 @@ PixelLines | https://github.com/PixelLines | https://t.me/PixelLines
 PixelOS  | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
 PixelOS Extended | https://github.com/PixelOS-Ext
 PixelOS-GM | https://github.com/pos-gm
-Project CiRCLE | https://github.com/ProjectCiRCLE-ROM
+Project CiRCLE | https://github.com/ProjectCiRCLE-ROM | https://t.me/ProjectCiRCLE_ROM
 Project Infinity X  | https://github.com/ProjectInfinity-X | https://t.me/InfinityXGroup, https://t.me/InfinityXUpdate, https://t.me/ProjectInfinityX
 Project Mist OS  | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscussion, https://t.me/MistOSUpdate
 Project Nirwana | https://github.com/ProjectNirwana
