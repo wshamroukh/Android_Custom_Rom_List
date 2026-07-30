@@ -17,6 +17,7 @@ CaesiumOS | https://github.com/CaesiumOS
 CalyxOS  | https://github.com/calyxos | https://t.me/CalyxOSpublic
 chaoticOS | https://github.com/chaoticOS | https://t.me/rscape_chat
 CharaROM | https://github.com/CharaROMAndroid | https://t.me/bunnypaddev
+CharcoalAOSP | https://github.com/charcoalAOSP | https://t.me/cAOSPUpdates
 crDroid  | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, https://t.me/crDroidUpdates
 crDroid X  | https://github.com/crdroidx
 DerpFest AOSP  | https://github.com/DerpFest-AOSP | https://t.me/DerpFestAOSP, https://t.me/derpfestupdates
