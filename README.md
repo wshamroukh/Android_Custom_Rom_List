@@ -29,6 +29,7 @@ Halcyon  | https://github.com/halcyonproject | https://t.me/hlcynprjct, https://
 halogenOS  | https://github.com/halogenOS | https://t.me/halogenOS, https://discord.gg/jqEvUNWHWD, https://t.me/xos_news
 Helix AOSP | https://github.com/Helix-AOSP
 HertzifyOS | https://github.com/HertzifyOS | https://t.me/HertzifyOS
+IchthysOS | https://github.com/kusti420/IchthysOS
 LineageOS  | https://github.com/LineageOS | https://t.me/Lineageos_group, https://t.me/LineageOS_Global
 LineageOS-Ext | https://github.com/Los-Ext
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid | https://t.me/LMODroid_Discussion, https://t.me/LMODroid_Updates
