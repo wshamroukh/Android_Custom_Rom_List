@@ -35,6 +35,7 @@ IchthysOS | https://github.com/kusti420/IchthysOS
 KleeUI | https://github.com/KleeUI
 LineageOS | https://github.com/LineageOS | https://t.me/Lineageos_group, https://t.me/LineageOS_Global
 LineageOS-Ext | https://github.com/Los-Ext
+LightningOS AOSP | https://github.com/LightningOS-AOSP
 LMODroid (LibreMobileOS) | https://github.com/LMODroid | https://t.me/LMODroid_Discussion, https://t.me/LMODroid_Updates
 LOS Modified | https://github.com/LOSModified
 Lunaris-AOSP | https://github.com/Lunaris-AOSP | https://t.me/lunaris_hub, https://t.me/lunaris_update, https://t.me/lunaris_dailyUP
