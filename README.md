@@ -1,6 +1,5 @@
 ROM Name | ROM Organization | ROM TG/Discord/Website
 -------:|:-------------------------|:-------------------------
-Advanced XPerience OS (AXP OS)  | https://github.com/AXP-OS
 AetheriaOS | https://github.com/AetheriaOS | https://t.me/AetheriaOS_AOSP
 AICP  | https://github.com/AICP | https://discord.gg/nMQUVRD
 Alch3myOS | https://github.com/Alch3myOS | https://t.me/LibraAlch3my
@@ -22,7 +21,6 @@ crDroid  | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, http
 crDroid X  | https://github.com/crdroidx
 DerpFest AOSP  | https://github.com/DerpFest-AOSP | https://t.me/DerpFestAOSP, https://t.me/derpfestupdates
 Edith-AOSP | https://github.com/Edith-AOSP
-Ethereal-OS  | https://github.com/Ethereal-OS | https://t.me/ETHEREAL_OS
 euclidOS | https://github.com/euclidOS-AOSP | https://t.me/euclidoschat, https://t.me/euclidOSupdates, https://t.me/euclid_buildsupport
 EunoiaOS | https://github.com/EunoiaOS | https://t.me/EunoiaOS_chat, https://t.me/EunoiaOS
 Evolution X  | https://github.com/Evolution-X | https://discord.gg/Evolution-X, https://t.me/EvolutionXOfficialROM, https://t.me/EvolutionXOfficial, https://t.me/EvolutionXUpdates
@@ -35,10 +33,8 @@ LineageOS  | https://github.com/LineageOS | https://t.me/Lineageos_group, https:
 LineageOS-Ext | https://github.com/Los-Ext
 LMODroid (LibreMobileOS)  | https://github.com/LMODroid | https://t.me/LMODroid_Discussion, https://t.me/LMODroid_Updates
 LOS Modified  | https://github.com/LOSModified
-LunaOS | https://github.com/TheLunaOS | https://t.me/LunaOSupdates
 Lunaris-AOSP | https://github.com/Lunaris-AOSP | https://t.me/lunaris_hub, https://t.me/lunaris_update, https://t.me/lunaris_dailyUP
 LumineDroid | https://github.com/LumineDroid | https://t.me/LumineDroidChat, https://t.me/LumineDroidNews
-Lynx-AOSP | https://github.com/Lynx-AOSP
 Miku UI  | https://github.com/Miku-UI | https://t.me/mikuuirelease
 Neoteric-OS | https://github.com/Neoteric-OS | https://t.me/neotericfam, https://t.me/NeotericOS_Chat
 Nucleus OS | https://github.com/nucleus-os
@@ -46,7 +42,6 @@ omnirom  | https://github.com/omnirom | https://t.me/OmniROM_Community
 Paranoid (AOSPA)  | https://github.com/AOSPA | https://t.me/stayparanoid, https://t.me/paranoidandroidofficial
 PixelBuilds  | https://github.com/PixelBuildsROM | https://t.me/PixelBuildsChat, https://t.me/PixelBuildsUpdates, https://t.me/PixelBuildsReleases
 Project Flare | https://github.com/Project-Flare-Staging | https://t.me/ProjectFlare_SG, https://t.me/ProjectFlareChannel
-PixelLines | https://github.com/PixelLines | https://t.me/PixelLines
 PixelOS  | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
 PixelOS Extended | https://github.com/PixelOS-Ext
 PixelOS-GM | https://github.com/pos-gm
@@ -56,12 +51,10 @@ Project Mist OS  | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscu
 Project Nirwana | https://github.com/ProjectNirwana
 Project Sakura  | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
 RuriseOS | https://github.com/RuriseOS
-Soul AOSP | https://github.com/KyThien-Project
 StatiXOS  | https://github.com/StatiXOS | https://t.me/StatiXOSReleases
 StatiXOS-Staging | https://github.com/stx-staging | https://t.me/StatiXOSReleases
 SunOS Project | https://github.com/SunOS-Project
 Superior OS  | https://github.com/SuperiorOS | https://t.me/superioros, https://t.me/superior_os
-The ChAOSP Project (TCAP) | https://github.com/TCAP-AOSP
 The Clover Project | https://github.com/The-Clover-Project | https://t.me/TheCloverProject_Chat, https://t.me/The_Clover_Project
 The XPerience Project  | https://github.com/TheXPerienceProject | https://t.me/xperiencechat, https://t.me/xperiencereleases
 uwuAOSP | https://github.com/uwuAOSP
