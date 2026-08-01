@@ -5,6 +5,7 @@ AICP  | https://github.com/AICP | https://discord.gg/nMQUVRD
 Alch3myOS | https://github.com/Alch3myOS | https://t.me/LibraAlch3my
 AlphaDroid  | https://github.com/AlphaDroid-Project | https://t.me/alphadroid_chat
 Altair ROM | https://github.com/AltairROM
+Androidfuckery | https://github.com/androidfuckery
 Android Open Source Project Mirror (unofficial) | https://github.com/aosp-mirror-neo
 ASCP OSS | https://github.com/ascp-oss
 AviumUI | https://github.com/AviumUI | https://t.me/aviumuichat, https://t.me/avium_update, https://t.me/AviumUI
