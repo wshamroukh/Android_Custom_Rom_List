@@ -50,7 +50,7 @@ omnirom | https://github.com/omnirom | https://t.me/OmniROM_Community
 Paranoid (AOSPA) | https://github.com/AOSPA | https://t.me/stayparanoid, https://t.me/paranoidandroidofficial
 Project Flare | https://github.com/Project-Flare-Staging | https://t.me/ProjectFlare_SG, https://t.me/ProjectFlareChannel
 PixelBuilds | https://github.com/PixelBuildsROM | https://t.me/PixelBuildsChat, https://t.me/PixelBuildsUpdates, https://t.me/PixelBuildsReleases
-PixelLines | https://github.com/PixelLines
+PixelLines | https://github.com/PixelLines | https://t.me/PixelL1nes
 PixelOS | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
 PixelOS Extended | https://github.com/PixelOS-Ext
 PixelOS-GM | https://github.com/pos-gm
