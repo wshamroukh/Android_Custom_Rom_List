@@ -15,6 +15,7 @@ AxionAOSP | https://github.com/AxionAOSP | https://t.me/AxionOS_android_chat, ht
 AyakaUI | https://github.com/AyakaUI | https://t.me/AyakaUIChat, https://t.me/AyakaUI
 BenzeneOS | https://github.com/BenzeneOS
 BlissROMs | https://github.com/BlissRoms | https://t.me/Team_Bliss_Community, https://t.me/BlissROM_Updates
+Bluestacks | https://github.com/bluestacks
 CaesiumOS | https://github.com/CaesiumOS
 CalyxOS | https://github.com/calyxos | https://t.me/CalyxOSpublic
 chaoticOS | https://github.com/chaoticOS | https://t.me/rscape_chat
