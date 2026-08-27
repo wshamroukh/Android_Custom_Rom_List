@@ -52,13 +52,14 @@ Neoteric-OS | https://github.com/Neoteric-OS | https://t.me/neotericfam, https:/
 Nucleus OS | https://github.com/nucleus-os
 omnirom | https://github.com/omnirom | https://t.me/OmniROM_Community
 Paranoid (AOSPA) | https://github.com/AOSPA | https://t.me/stayparanoid, https://t.me/paranoidandroidofficial
-Project Flare | https://github.com/Project-Flare-Staging | https://t.me/ProjectFlare_SG, https://t.me/ProjectFlareChannel
+PenguinOS | https://github.com/Project-PenguinOS
 PixelBuilds | https://github.com/PixelBuildsROM | https://t.me/PixelBuildsChat, https://t.me/PixelBuildsUpdates, https://t.me/PixelBuildsReleases
 PixelLines | https://github.com/PixelLines | https://t.me/PixelL1nes
 PixelOS | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
 PixelOS Extended | https://github.com/PixelOS-Ext
 PixelOS-GM | https://github.com/pos-gm
 Project CiRCLE | https://github.com/ProjectCiRCLE-ROM | https://t.me/ProjectCiRCLE_ROM
+Project Flare | https://github.com/Project-Flare-Staging | https://t.me/ProjectFlare_SG, https://t.me/ProjectFlareChannel
 Project Infinity X | https://github.com/ProjectInfinity-X | https://t.me/InfinityXGroup, https://t.me/InfinityXUpdate, https://t.me/ProjectInfinityX
 Project Mist OS | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscussion, https://t.me/MistOSUpdate
 Project Nirwana | https://github.com/ProjectNirwana
