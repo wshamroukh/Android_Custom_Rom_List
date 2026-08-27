@@ -73,6 +73,7 @@ SunOS Project | https://github.com/SunOS-Project
 Superior OS | https://github.com/SuperiorOS | https://t.me/superioros, https://t.me/superior_os
 The Clover Project | https://github.com/The-Clover-Project | https://t.me/TheCloverProject_Chat, https://t.me/The_Clover_Project
 The XPerience Project | https://github.com/TheXPerienceProject | https://t.me/xperiencechat, https://t.me/xperiencereleases
+UOTAN OS | https://github.com/UOTAN-OS
 uwuAOSP | https://github.com/uwuAOSP
 VoltageOS | https://github.com/VoltageOS | https://t.me/voltageos, https://t.me/voltageosannouncements, https://t.me/voltageos, https://t.me/VoltageOSSupport
 WitAqua | https://github.com/WitAqua
