@@ -32,6 +32,7 @@ EunoiaOS | https://github.com/EunoiaOS | https://t.me/EunoiaOS_chat, https://t.m
 Evolution X | https://github.com/Evolution-X | https://discord.gg/Evolution-X, https://t.me/EvolutionXOfficialROM, https://t.me/EvolutionXOfficial, https://t.me/EvolutionXUpdates
 FeatherOS | https://github.com/TheFeatherOS
 Ferrum OS | https://github.com/ferrum-os
+Fluent-AOSP | https://github.com/Fluent-AOSP
 Frosty | https://github.com/frosty-aosp
 GrapheneOS | https://github.com/GrapheneOS | https://t.me/GrapheneOS
 Halcyon | https://github.com/halcyonproject | https://t.me/hlcynprjct, https://t.me/hlcynprjctchat
