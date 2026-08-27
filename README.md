@@ -65,6 +65,7 @@ Project Infinity X | https://github.com/ProjectInfinity-X | https://t.me/Infinit
 Project Mist OS | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscussion, https://t.me/MistOSUpdate
 Project Nirwana | https://github.com/ProjectNirwana
 Project Sakura | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
+RealizeUI | https://github.com/RealizeUI
 RuriseOS | https://github.com/RuriseOS
 rwiceAOSP | https://github.com/rwiceAOSP | https://t.me/rwiceAOSP
 SHIFTPHONES | https://github.com/SHIFTPHONES
