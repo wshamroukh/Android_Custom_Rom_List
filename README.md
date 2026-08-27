@@ -63,6 +63,7 @@ Project Mist OS | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscus
 Project Nirwana | https://github.com/ProjectNirwana
 Project Sakura | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
 RuriseOS | https://github.com/RuriseOS
+rwiceAOSP | https://github.com/rwiceAOSP | https://t.me/rwiceAOSP
 SHIFTPHONES | https://github.com/SHIFTPHONES
 Shinkai Project | https://github.com/Shinkaiprjkt
 StatiXOS | https://github.com/StatiXOS | https://t.me/StatiXOSReleases
