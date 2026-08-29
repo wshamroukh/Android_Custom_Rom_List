@@ -17,7 +17,7 @@ AyakaUI | https://github.com/AyakaUI | https://t.me/AyakaUIChat, https://t.me/Ay
 BenzeneOS | https://github.com/BenzeneOS
 BlissROMs | https://github.com/BlissRoms | https://t.me/Team_Bliss_Community, https://t.me/BlissROM_Updates
 Bluestacks | https://github.com/bluestacks
-CaesiumOS | https://github.com/CaesiumOS
+CaesiumOS | https://github.com/CaesiumOS | https://t.me/caesiumos
 CalyxOS | https://github.com/calyxos | https://t.me/CalyxOSpublic
 chaoticOS | https://github.com/chaoticOS | https://t.me/rscape_chat
 CharaROM | https://github.com/CharaROMAndroid | https://t.me/bunnypaddev
