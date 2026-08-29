@@ -30,7 +30,7 @@ Edith-AOSP | https://github.com/Edith-AOSP
 euclidOS | https://github.com/euclidOS-AOSP | https://t.me/euclidoschat, https://t.me/euclidOSupdates, https://t.me/euclid_buildsupport
 EunoiaOS | https://github.com/EunoiaOS | https://t.me/EunoiaOS_chat, https://t.me/EunoiaOS
 Evolution X | https://github.com/Evolution-X | https://discord.gg/Evolution-X, https://t.me/EvolutionXOfficialROM, https://t.me/EvolutionXOfficial, https://t.me/EvolutionXUpdates
-FeatherOS | https://github.com/TheFeatherOS
+FeatherOS | https://github.com/TheFeatherOS | https://t.me/FeatherOS
 Ferrum OS | https://github.com/ferrum-os
 Fluent-AOSP | https://github.com/Fluent-AOSP
 Frosty | https://github.com/frosty-aosp
