@@ -1,6 +1,6 @@
 ROM Name | ROM Organization | ROM TG/Discord/Website
 -------:|:-------------------------|:-------------------------
-AetherOS| https://github.com/Project-AetherOS
+AetherOS| https://github.com/Project-AetherOS | https://t.me/aetherosofficial, https://t.me/aetheroschat
 AetheriaOS | https://github.com/AetheriaOS | https://t.me/AetheriaOS_AOSP
 AICP | https://github.com/AICP | https://discord.gg/nMQUVRD
 Alch3myOS | https://github.com/Alch3myOS | https://t.me/LibraAlch3my
