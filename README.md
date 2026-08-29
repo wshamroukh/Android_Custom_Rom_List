@@ -22,7 +22,7 @@ CalyxOS | https://github.com/calyxos | https://t.me/CalyxOSpublic
 chaoticOS | https://github.com/chaoticOS | https://t.me/rscape_chat
 CharaROM | https://github.com/CharaROMAndroid | https://t.me/bunnypaddev
 CharcoalAOSP | https://github.com/charcoalAOSP | https://t.me/cAOSPUpdates
-CortenaOS | https://github.com/cortenaos
+CortenaOS | https://github.com/cortenaos | https://t.me/cortenaos
 crDroid | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, https://t.me/crDroidUpdates
 crDroid X | https://github.com/crdroidx
 DerpFest AOSP | https://github.com/DerpFest-AOSP | https://t.me/DerpFestAOSP, https://t.me/derpfestupdates
