@@ -69,6 +69,7 @@ Project Nirwana | https://github.com/ProjectNirwana
 Project Sakura | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
 Project Shinkai | https://github.com/ShinkaiProject | https://t.me/Mnskkyy
 RealizeUI | https://github.com/RealizeUI
+Rising Revived OSS |https://github.com/RisingOS-Revived | https://t.me/RisingRevived
 RuriseOS | https://github.com/RuriseOS
 rwiceAOSP | https://github.com/rwiceAOSP | https://t.me/rwiceAOSP
 SHIFTPHONES | https://github.com/SHIFTPHONES
