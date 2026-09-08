@@ -35,6 +35,7 @@ Fluent-AOSP | https://github.com/Fluent-AOSP
 Frosty | https://github.com/frosty-aosp
 Fundamental OS | https://github.com/FundamentalOS
 GrapheneOS | https://github.com/GrapheneOS | https://t.me/GrapheneOS
+Halcyon - Calla Lily | https://github.com/hlcyn-callalily
 Halcyon | https://github.com/halcyonproject | https://t.me/hlcynprjct, https://t.me/hlcynprjctchat
 halogenOS | https://github.com/halogenOS | https://t.me/halogenOS, https://discord.gg/jqEvUNWHWD, https://t.me/xos_news
 HertzifyOS | https://github.com/HertzifyOS | https://t.me/HertzifyOS
