@@ -21,7 +21,6 @@ CaesiumOS | https://github.com/CaesiumOS | https://t.me/caesiumos
 CalyxOS | https://github.com/calyxos | https://t.me/CalyxOSpublic
 chaoticOS | https://github.com/chaoticOS | https://t.me/rscape_chat
 CharaROM | https://github.com/CharaROMAndroid | https://t.me/bunnypaddev
-CharcoalAOSP | https://github.com/charcoalAOSP | https://t.me/cAOSPUpdates
 CortenaOS | https://github.com/cortenaos | https://t.me/cortenaos
 crDroid | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, https://t.me/crDroidUpdates
 crDroid X | https://github.com/crdroidx
@@ -37,7 +36,6 @@ Frosty | https://github.com/frosty-aosp
 GrapheneOS | https://github.com/GrapheneOS | https://t.me/GrapheneOS
 Halcyon | https://github.com/halcyonproject | https://t.me/hlcynprjct, https://t.me/hlcynprjctchat
 halogenOS | https://github.com/halogenOS | https://t.me/halogenOS, https://discord.gg/jqEvUNWHWD, https://t.me/xos_news
-Helix AOSP | https://github.com/Helix-AOSP
 HertzifyOS | https://github.com/HertzifyOS | https://t.me/HertzifyOS
 IchthysOS | https://github.com/kusti420/IchthysOS
 KleeUI | https://github.com/KleeUI
@@ -59,7 +57,6 @@ PenguinOS | https://github.com/Project-PenguinOS
 PixelBuilds | https://github.com/PixelBuildsROM | https://t.me/PixelBuildsChat, https://t.me/PixelBuildsUpdates, https://t.me/PixelBuildsReleases
 PixelLines | https://github.com/PixelLines | https://t.me/PixelL1nes
 PixelOS | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
-PixelOS Extended | https://github.com/PixelOS-Ext
 PixelOS-GM | https://github.com/pos-gm
 Project CiRCLE | https://github.com/ProjectCiRCLE-ROM | https://t.me/ProjectCiRCLE_ROM
 Project Flare | https://github.com/Project-Flare-Staging | https://t.me/ProjectFlare_SG, https://t.me/ProjectFlareChannel
@@ -71,7 +68,6 @@ RealizeUI | https://github.com/RealizeUI
 RuriseOS | https://github.com/RuriseOS
 rwiceAOSP | https://github.com/rwiceAOSP | https://t.me/rwiceAOSP
 SHIFTPHONES | https://github.com/SHIFTPHONES
-Shinkai Project | https://github.com/Shinkaiprjkt
 StatiXOS | https://github.com/StatiXOS | https://t.me/StatiXOSReleases
 StatiXOS-Staging | https://github.com/stx-staging | https://t.me/StatiXOSReleases
 SunOS Project | https://github.com/SunOS-Project
