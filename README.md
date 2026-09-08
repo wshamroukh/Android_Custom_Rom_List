@@ -33,6 +33,7 @@ FeatherOS | https://github.com/TheFeatherOS | https://t.me/FeatherOS
 Ferrum OS | https://github.com/ferrum-os
 Fluent-AOSP | https://github.com/Fluent-AOSP
 Frosty | https://github.com/frosty-aosp
+Fundamental OS | https://github.com/FundamentalOS
 GrapheneOS | https://github.com/GrapheneOS | https://t.me/GrapheneOS
 Halcyon | https://github.com/halcyonproject | https://t.me/hlcynprjct, https://t.me/hlcynprjctchat
 halogenOS | https://github.com/halogenOS | https://t.me/halogenOS, https://discord.gg/jqEvUNWHWD, https://t.me/xos_news
