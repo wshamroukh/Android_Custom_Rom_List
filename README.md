@@ -79,6 +79,7 @@ StatiXOS-Staging | https://github.com/stx-staging | https://t.me/StatiXOSRelease
 SunOS Project | https://github.com/SunOS-Project
 Superior OS | https://github.com/SuperiorOS | https://t.me/superioros, https://t.me/superior_os
 The Clover Project | https://github.com/The-Clover-Project | https://t.me/TheCloverProject_Chat, https://t.me/The_Clover_Project
+The Diva Project | https://github.com/The-Diva-Project | https://t.me/AlexMainMandy
 The XPerience Project | https://github.com/TheXPerienceProject | https://t.me/xperiencechat, https://t.me/xperiencereleases
 UOTAN OS | https://github.com/UOTAN-OS
 uwuAOSP | https://github.com/uwuAOSP
