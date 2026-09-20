@@ -53,7 +53,7 @@ LumineDroid | https://github.com/LumineDroid | https://t.me/LumineDroidChat, htt
 MaxxPixel OS | https://github.com/MaxxPixel-OS
 Miku UI | https://github.com/Miku-UI | https://t.me/mikuuirelease
 Neoteric-OS | https://github.com/Neoteric-OS | https://t.me/neotericfam, https://t.me/NeotericOS_Chat
-NervOS | https://github.com/NervAOSP
+NervAOSP | https://github.com/NervAOSP
 Nucleus OS | https://github.com/nucleus-os
 omnirom | https://github.com/omnirom | https://t.me/OmniROM_Community
 Paranoid (AOSPA) | https://github.com/AOSPA | https://t.me/stayparanoid, https://t.me/paranoidandroidofficial
@@ -61,6 +61,7 @@ PenguinOS | https://github.com/Project-PenguinOS
 PixelBuilds | https://github.com/PixelBuildsROM | https://t.me/PixelBuildsChat, https://t.me/PixelBuildsUpdates, https://t.me/PixelBuildsReleases
 PixelLines | https://github.com/PixelLines | https://t.me/PixelL1nes
 PixelOS | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
+PixelOS-CLO | https://github.com/PixelOS-CLO
 PixelOS-GM | https://github.com/pos-gm
 Project CiRCLE | https://github.com/ProjectCiRCLE-ROM | https://t.me/ProjectCiRCLE_ROM
 Project Flare | https://github.com/Project-Flare-Staging | https://t.me/ProjectFlare_SG, https://t.me/ProjectFlareChannel
@@ -69,10 +70,12 @@ Project Mist OS | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscus
 Project Nirwana | https://github.com/ProjectNirwana
 Project Sakura | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
 Project Shinkai | https://github.com/ShinkaiProject | https://t.me/Mnskkyy
+Pulse-OS | https://github.com/Pulse-OS
+Raven AOSP | https://github.com/Raven-AOSP
 RealizeUI | https://github.com/RealizeUI
 Rising Revived OSS |https://github.com/RisingOS-Revived | https://t.me/RisingRevived
 RuriseOS | https://github.com/RuriseOS
-rwiceAOSP | https://github.com/rwiceAOSP | https://t.me/rwiceAOSP
+rwiceAOSP | https://github.com/Crescence-AOSP | https://t.me/rwiceAOSP
 SHIFTPHONES | https://github.com/SHIFTPHONES
 StatiXOS | https://github.com/StatiXOS | https://t.me/StatiXOSReleases
 StatiXOS-Staging | https://github.com/stx-staging | https://t.me/StatiXOSReleases
