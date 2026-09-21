@@ -24,6 +24,7 @@ CharaROM | https://github.com/CharaROMAndroid | https://t.me/bunnypaddev
 CortenaOS | https://github.com/cortenaos | https://t.me/cortenaos
 crDroid | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, https://t.me/crDroidUpdates
 crDroid X | https://github.com/crdroidx |
+DarwinAOSP | https://github.com/DarwinAOSP |
 DerpFest AOSP | https://github.com/DerpFest-AOSP | https://t.me/DerpFestAOSP, https://t.me/derpfestupdates
 Edith-AOSP | https://github.com/Edith-AOSP |
 euclidOS | https://github.com/euclidOS-AOSP | https://t.me/euclidoschat, https://t.me/euclidOSupdates, https://t.me/euclid_buildsupport
