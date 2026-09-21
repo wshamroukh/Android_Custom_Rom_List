@@ -1,93 +1,93 @@
 ROM Name | ROM Organization | ROM TG/Discord/Website
 -------:|:-------------------------|:-------------------------
-AetherOS| https://github.com/Project-AetherOS | https://t.me/aetherosofficial, https://t.me/aetheroschat
+AetherOS | https://github.com/Project-AetherOS | https://t.me/aetherosofficial, https://t.me/aetheroschat
 AetheriaOS | https://github.com/AetheriaOS | https://t.me/AetheriaOS_AOSP
 AICP | https://github.com/AICP | https://discord.gg/nMQUVRD
 Alch3myOS | https://github.com/Alch3myOS | https://t.me/LibraAlch3my
 AlphaDroid | https://github.com/AlphaDroid-Project | https://t.me/alphadroid_chat
-Altair ROM | https://github.com/AltairROM
-Androidfuckery | https://github.com/androidfuckery
-Android Open Source Project Mirror (unofficial) | https://github.com/aosp-mirror-neo
-AquariumUI | https://github.com/AquariumUI
-ASCP | https://github.com/Pixelify-AOSP | https://t.me/ascp_marble, https://t.me/ascpos_marble, 
-ASCP OSS | https://github.com/ascp-oss
+Altair ROM | https://github.com/AltairROM |
+Android Open Source Project Mirror (unofficial) | https://github.com/aosp-mirror-neo |
+Androidfuckery | https://github.com/androidfuckery |
+AquariumUI | https://github.com/AquariumUI |
+ASCP | https://github.com/Pixelify-AOSP | https://t.me/ascp_marble, https://t.me/ascpos_marble
+ASCP OSS | https://github.com/ascp-oss |
 AviumUI | https://github.com/AviumUI | https://t.me/aviumuichat, https://t.me/avium_update, https://t.me/AviumUI
 AxionAOSP | https://github.com/AxionAOSP | https://t.me/AxionOS_android_chat, https://t.me/AxionOS_android, https://t.me/AxionOS_android_builders
 AyakaUI | https://github.com/AyakaUI | https://t.me/AyakaUIChat, https://t.me/AyakaUI
-BenzeneOS | https://github.com/BenzeneOS
+BenzeneOS | https://github.com/BenzeneOS |
 BlissROMs | https://github.com/BlissRoms | https://t.me/Team_Bliss_Community, https://t.me/BlissROM_Updates
-Bluestacks | https://github.com/bluestacks
+Bluestacks | https://github.com/bluestacks |
 CaesiumOS | https://github.com/CaesiumOS | https://t.me/caesiumos
 CalyxOS | https://github.com/calyxos | https://t.me/CalyxOSpublic
 chaoticOS | https://github.com/chaoticOS | https://t.me/rscape_chat
 CharaROM | https://github.com/CharaROMAndroid | https://t.me/bunnypaddev
 CortenaOS | https://github.com/cortenaos | https://t.me/cortenaos
 crDroid | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, https://t.me/crDroidUpdates
-crDroid X | https://github.com/crdroidx
+crDroid X | https://github.com/crdroidx |
 DerpFest AOSP | https://github.com/DerpFest-AOSP | https://t.me/DerpFestAOSP, https://t.me/derpfestupdates
-Edith-AOSP | https://github.com/Edith-AOSP
+Edith-AOSP | https://github.com/Edith-AOSP |
 euclidOS | https://github.com/euclidOS-AOSP | https://t.me/euclidoschat, https://t.me/euclidOSupdates, https://t.me/euclid_buildsupport
 EunoiaOS | https://github.com/EunoiaOS | https://t.me/EunoiaOS_chat, https://t.me/EunoiaOS
 Evolution X | https://github.com/Evolution-X | https://discord.gg/Evolution-X, https://t.me/EvolutionXOfficialROM, https://t.me/EvolutionXOfficial, https://t.me/EvolutionXUpdates
 FeatherOS | https://github.com/TheFeatherOS | https://t.me/FeatherOS
-Ferrum OS | https://github.com/ferrum-os
-Fluent-AOSP | https://github.com/Fluent-AOSP
-Frosty | https://github.com/frosty-aosp
-Fundamental OS | https://github.com/FundamentalOS
+Ferrum OS | https://github.com/ferrum-os |
+Fluent-AOSP | https://github.com/Fluent-AOSP |
+Frosty | https://github.com/frosty-aosp |
+Fundamental OS | https://github.com/FundamentalOS |
 GrapheneOS | https://github.com/GrapheneOS | https://t.me/GrapheneOS
-Halcyon - Calla Lily | https://github.com/hlcyn-callalily
 Halcyon | https://github.com/halcyonproject | https://t.me/hlcynprjct, https://t.me/hlcynprjctchat
+Halcyon - Calla Lily | https://github.com/hlcyn-callalily |
 halogenOS | https://github.com/halogenOS | https://t.me/halogenOS, https://discord.gg/jqEvUNWHWD, https://t.me/xos_news
-HaloUI | https://github.com/HaloUI-AOSP
+HaloUI | https://github.com/HaloUI-AOSP |
 HertzifyOS | https://github.com/HertzifyOS | https://t.me/HertzifyOS
-IchthysOS | https://github.com/kusti420/IchthysOS
-KleeUI | https://github.com/KleeUI
+IchthysOS | https://github.com/kusti420/IchthysOS |
+KleeUI | https://github.com/KleeUI |
+LightningOS AOSP | https://github.com/LightningOS-AOSP |
 LineageOS | https://github.com/LineageOS | https://t.me/Lineageos_group, https://t.me/LineageOS_Global
-LineageOS-Ext | https://github.com/Los-Ext
-LineageOS x CLO | https://github.com/LineageOS-x-CLO
-LightningOS AOSP | https://github.com/LightningOS-AOSP
+LineageOS x CLO | https://github.com/LineageOS-x-CLO |
+LineageOS-Ext | https://github.com/Los-Ext |
 LMODroid (LibreMobileOS) | https://github.com/LMODroid | https://t.me/LMODroid_Discussion, https://t.me/LMODroid_Updates
-LOS Modified | https://github.com/LOSModified
-Lunaris-AOSP | https://github.com/Lunaris-AOSP | https://t.me/lunaris_hub, https://t.me/lunaris_update, https://t.me/lunaris_dailyUP
+LOS Modified | https://github.com/LOSModified |
 LumineDroid | https://github.com/LumineDroid | https://t.me/LumineDroidChat, https://t.me/LumineDroidNews
-MaxxPixel OS | https://github.com/MaxxPixel-OS
+Lunaris-AOSP | https://github.com/Lunaris-AOSP | https://t.me/lunaris_hub, https://t.me/lunaris_update, https://t.me/lunaris_dailyUP
+MaxxPixel OS | https://github.com/MaxxPixel-OS |
 Miku UI | https://github.com/Miku-UI | https://t.me/mikuuirelease
 Neoteric-OS | https://github.com/Neoteric-OS | https://t.me/neotericfam, https://t.me/NeotericOS_Chat
-NervAOSP | https://github.com/NervAOSP
-Nucleus OS | https://github.com/nucleus-os
+NervAOSP | https://github.com/NervAOSP |
+Nucleus OS | https://github.com/nucleus-os |
 omnirom | https://github.com/omnirom | https://t.me/OmniROM_Community
 Paranoid (AOSPA) | https://github.com/AOSPA | https://t.me/stayparanoid, https://t.me/paranoidandroidofficial
-PenguinOS | https://github.com/Project-PenguinOS
+PenguinOS | https://github.com/Project-PenguinOS |
 PixelBuilds | https://github.com/PixelBuildsROM | https://t.me/PixelBuildsChat, https://t.me/PixelBuildsUpdates, https://t.me/PixelBuildsReleases
 PixelLines | https://github.com/PixelLines | https://t.me/PixelL1nes
 PixelOS | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
-PixelOS-CLO | https://github.com/PixelOS-CLO
-PixelOS-GM | https://github.com/pos-gm
+PixelOS-CLO | https://github.com/PixelOS-CLO |
+PixelOS-GM | https://github.com/pos-gm |
 Project CiRCLE | https://github.com/ProjectCiRCLE-ROM | https://t.me/ProjectCiRCLE_ROM
 Project Flare | https://github.com/Project-Flare-Staging | https://t.me/ProjectFlare_SG, https://t.me/ProjectFlareChannel
 Project Infinity X | https://github.com/ProjectInfinity-X | https://t.me/InfinityXGroup, https://t.me/InfinityXUpdate, https://t.me/ProjectInfinityX
 Project Mist OS | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscussion, https://t.me/MistOSUpdate
-Project Nirwana | https://github.com/ProjectNirwana
+Project Nirwana | https://github.com/ProjectNirwana |
 Project Sakura | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
 Project Shinkai | https://github.com/ShinkaiProject | https://t.me/Mnskkyy
-Pulse-OS | https://github.com/Pulse-OS
-Raven AOSP | https://github.com/Raven-AOSP
-RealizeUI | https://github.com/RealizeUI
-Rising Revived OSS |https://github.com/RisingOS-Revived | https://t.me/RisingRevived
-RuriseOS | https://github.com/RuriseOS
+Pulse-OS | https://github.com/Pulse-OS |
+Raven AOSP | https://github.com/Raven-AOSP |
+RealizeUI | https://github.com/RealizeUI |
+Rising Revived OSS | https://github.com/RisingOS-Revived | https://t.me/RisingRevived
+RuriseOS | https://github.com/RuriseOS |
 rwiceAOSP | https://github.com/Crescence-AOSP | https://t.me/rwiceAOSP
-SHIFTPHONES | https://github.com/SHIFTPHONES
+SHIFTPHONES | https://github.com/SHIFTPHONES |
 StatiXOS | https://github.com/StatiXOS | https://t.me/StatiXOSReleases
 StatiXOS-Staging | https://github.com/stx-staging | https://t.me/StatiXOSReleases
-SunOS Project | https://github.com/SunOS-Project
+SunOS Project | https://github.com/SunOS-Project |
 Superior OS | https://github.com/SuperiorOS | https://t.me/superioros, https://t.me/superior_os
 The Clover Project | https://github.com/The-Clover-Project | https://t.me/TheCloverProject_Chat, https://t.me/The_Clover_Project
 The Diva Project | https://github.com/The-Diva-Project | https://t.me/AlexMainMandy
 The XPerience Project | https://github.com/TheXPerienceProject | https://t.me/xperiencechat, https://t.me/xperiencereleases
-UOTAN OS | https://github.com/UOTAN-OS
-uwuAOSP | https://github.com/uwuAOSP
+UOTAN OS | https://github.com/UOTAN-OS |
+uwuAOSP | https://github.com/uwuAOSP |
 VoltageOS | https://github.com/VoltageOS | https://t.me/voltageos, https://t.me/voltageosannouncements, https://t.me/voltageos, https://t.me/VoltageOSSupport
-WitAqua | https://github.com/WitAqua
+WitAqua | https://github.com/WitAqua |
 xdroid-oss | https://github.com/xdroid-oss | https://t.me/xdroid_chat, https://t.me/xdroidOSS, https://t.me/xdroid_update
 YAAP | https://github.com/YAAP | https://t.me/yaapcommon, https://t.me/yaapupdates
-YAAPex | https://github.com/yaapex
+YAAPex | https://github.com/yaapex |
