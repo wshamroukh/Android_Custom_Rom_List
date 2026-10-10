@@ -12,6 +12,7 @@ aospa-shadedark | https://github.com/aospa-shadedark |
 AquariumUI | https://github.com/AquariumUI |
 ASCP | https://github.com/Pixelify-AOSP | https://t.me/ascp_marble, https://t.me/ascpos_marble
 ASCP OSS | https://github.com/ascp-oss |
+AstralOS Project | https://github.com/AstralOSProject | https://discord.gg/WCUbsQx3kE
 AviumUI | https://github.com/AviumUI | https://t.me/aviumuichat, https://t.me/avium_update, https://t.me/AviumUI
 AxionAOSP | https://github.com/AxionAOSP | https://t.me/AxionOS_android_chat, https://t.me/AxionOS_android, https://t.me/AxionOS_android_builders
 AyakaUI | https://github.com/AyakaUI | https://t.me/AyakaUIChat, https://t.me/AyakaUI
