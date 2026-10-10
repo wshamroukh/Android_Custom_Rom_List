@@ -8,6 +8,7 @@ AlphaDroid | https://github.com/AlphaDroid-Project | https://t.me/alphadroid_cha
 Altair ROM | https://github.com/AltairROM |
 Android Open Source Project Mirror (unofficial) | https://github.com/aosp-mirror-neo |
 Androidfuckery | https://github.com/androidfuckery |
+aospa-shadedark | https://github.com/aospa-shadedark |
 AquariumUI | https://github.com/AquariumUI |
 ASCP | https://github.com/Pixelify-AOSP | https://t.me/ascp_marble, https://t.me/ascpos_marble
 ASCP OSS | https://github.com/ascp-oss |
