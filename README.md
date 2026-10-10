@@ -14,6 +14,7 @@ ASCP OSS | https://github.com/ascp-oss |
 AviumUI | https://github.com/AviumUI | https://t.me/aviumuichat, https://t.me/avium_update, https://t.me/AviumUI
 AxionAOSP | https://github.com/AxionAOSP | https://t.me/AxionOS_android_chat, https://t.me/AxionOS_android, https://t.me/AxionOS_android_builders
 AyakaUI | https://github.com/AyakaUI | https://t.me/AyakaUIChat, https://t.me/AyakaUI
+BaikalOS | https://github.com/baikalos |
 BenzeneOS | https://github.com/BenzeneOS |
 BlissROMs | https://github.com/BlissRoms | https://t.me/Team_Bliss_Community, https://t.me/BlissROM_Updates
 Bluenixx | https://github.com/Bluenixx |
