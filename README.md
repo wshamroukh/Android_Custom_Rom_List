@@ -55,7 +55,6 @@ LMODroid (LibreMobileOS) | https://github.com/LMODroid | https://t.me/LMODroid_D
 LOS Modified | https://github.com/LOSModified |
 LumineDroid | https://github.com/LumineDroid | https://t.me/LumineDroidChat, https://t.me/LumineDroidNews
 Lunaris-AOSP | https://github.com/Lunaris-AOSP | https://t.me/lunaris_hub, https://t.me/lunaris_update, https://t.me/lunaris_dailyUP
-MaxxPixel OS | https://github.com/MaxxPixel-OS |
 Miku UI | https://github.com/Miku-UI | https://t.me/mikuuirelease
 nasgoros | https://github.com/nasgoros | 
 Neoteric-OS | https://github.com/Neoteric-OS | https://t.me/neotericfam, https://t.me/NeotericOS_Chat
