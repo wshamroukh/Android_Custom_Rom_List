@@ -10,6 +10,7 @@ Android Open Source Project Mirror (unofficial) | https://github.com/aosp-mirror
 Androidfuckery | https://github.com/androidfuckery |
 aospa-shadedark | https://github.com/aospa-shadedark |
 AquariumUI | https://github.com/AquariumUI |
+AresOS | https://github.com/AresOS-AOSP
 ASCP | https://github.com/Pixelify-AOSP | https://t.me/ascp_marble, https://t.me/ascpos_marble
 ASCP OSS | https://github.com/ascp-oss |
 AstralOS Project | https://github.com/AstralOSProject | https://discord.gg/WCUbsQx3kE
