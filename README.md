@@ -67,6 +67,7 @@ Nucleus OS | https://github.com/nucleus-os |
 omnirom | https://github.com/omnirom | https://t.me/OmniROM_Community
 Paranoid (AOSPA) | https://github.com/AOSPA | https://t.me/stayparanoid, https://t.me/paranoidandroidofficial
 PenguinOS | https://github.com/Project-PenguinOS |
+PenguinOS-Vanilla | https://github.com/PenguinOS-Vanilla
 PixelBuilds | https://github.com/PixelBuildsROM | https://t.me/PixelBuildsChat, https://t.me/PixelBuildsUpdates, https://t.me/PixelBuildsReleases
 PixelLines | https://github.com/PixelLines | https://t.me/PixelL1nes
 PixelOS | https://github.com/PixelOS-AOSP | https://t.me/pixeloschat, https://t.me/PixelOSOfficial
