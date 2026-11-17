@@ -1,0 +1,3 @@
+# Fix the Android version of a ROM whose manifest can't be read or is misread.
+# One "owner version" per line, e.g.:
+# BlissRoms 17

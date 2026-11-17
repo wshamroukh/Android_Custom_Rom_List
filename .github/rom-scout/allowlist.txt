@@ -1,0 +1,3 @@
+# One GitHub owner login per line. Always checked; added even if heuristics say REVIEW
+# (e.g. a ROM that lives on a user account).
+FundamentalOS
