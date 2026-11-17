@@ -14,6 +14,7 @@ BaikalOS | https://github.com/baikalos | https://baikalos.ru
 BlissROMs | https://github.com/BlissRoms | https://t.me/Team_Bliss_Community, https://t.me/BlissROM_Updates
 brokenlab | https://github.com/cringe-stuff-at-2am | 
 Budík OS | https://github.com/BudikOS | https://budikstore.org
+CaesiumDesktop | https://github.com/CaesiumDesktop | 
 CalyxOS | https://github.com/calyxos | https://t.me/CalyxOSpublic
 CharaROM | https://github.com/CharaROMAndroid | https://t.me/bunnypaddev
 crDroid | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, https://t.me/crDroidUpdates
@@ -23,6 +24,7 @@ DescartesOS | https://github.com/DescartesOS |
 DiamaneOS | https://github.com/DiamaneOS | https://diamaneos.de
 Edith-AOSP | https://github.com/Edith-AOSP |
 Evolution X | https://github.com/Evolution-X | https://discord.gg/Evolution-X, https://t.me/EvolutionXOfficialROM, https://t.me/EvolutionXOfficial, https://t.me/EvolutionXUpdates
+Frosty | https://github.com/frosty-aosp |
 Fundamental OS | https://github.com/FundamentalOS | https://fundamentalos.org
 GrapheneOS | https://github.com/GrapheneOS | https://t.me/GrapheneOS
 Good4Nothing-AOSP | https://github.com/Good4Nothing-AOSP | https://t.me/G4NChat
@@ -80,7 +82,6 @@ ArkUI.Project | https://github.com/ArkUI-Project | https://ark-ui.org
 AxionAOSP | https://github.com/AxionAOSP | https://t.me/AxionOS_android_chat, https://t.me/AxionOS_android, https://t.me/AxionOS_android_builders
 DarwinAOSP | https://github.com/DarwinAOSP |
 DeltaPrjkts Main Orgs. /// Lunar TempoUX | https://github.com/DeltaPrjkts | https://t.me/deltaprjkts
-Frosty | https://github.com/frosty-aosp |
 LOS Modified | https://github.com/LOSModified |
 Lunaris-AOSP | https://github.com/Lunaris-AOSP | https://t.me/lunaris_hub, https://t.me/lunaris_update, https://t.me/lunaris_dailyUP
 NervAOSP | https://github.com/NervAOSP |
