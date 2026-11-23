@@ -11,11 +11,14 @@ AstralOS Project | https://github.com/AstralOSProject | https://discord.gg/WCUbs
 AviumUI | https://github.com/AviumUI | https://t.me/aviumuichat, https://t.me/avium_update, https://t.me/AviumUI
 AyakaUI | https://github.com/AyakaUI | https://t.me/AyakaUIChat, https://t.me/AyakaUI
 BaikalOS | https://github.com/baikalos | https://baikalos.ru
+BlazeAOSP | https://github.com/ProjectBlaze-Staging | 
 BlissROMs | https://github.com/BlissRoms | https://t.me/Team_Bliss_Community, https://t.me/BlissROM_Updates
+Bootleggers-ROTL | https://github.com/Bootleggers-ROTL | https://t.me/keepthebootleg
 brokenlab | https://github.com/cringe-stuff-at-2am | 
 Budík OS | https://github.com/BudikOS | https://budikstore.org
 CaesiumDesktop | https://github.com/CaesiumDesktop | 
 CalyxOS | https://github.com/calyxos | https://t.me/CalyxOSpublic
+CarbonOS-Rom | https://github.com/CarbonOS-Rom | https://t.me/CarbonOSaosp
 CharaROM | https://github.com/CharaROMAndroid | https://t.me/bunnypaddev
 crDroid | https://github.com/crdroidandroid | https://t.me/crDroidAndroid, https://t.me/crDroidUpdates
 crDroid X | https://github.com/crdroidx | https://t.me/gwolf2u
@@ -24,6 +27,7 @@ DescartesOS | https://github.com/DescartesOS |
 DiamaneOS | https://github.com/DiamaneOS | https://diamaneos.de
 Edith-AOSP | https://github.com/Edith-AOSP |
 Evolution X | https://github.com/Evolution-X | https://discord.gg/Evolution-X, https://t.me/EvolutionXOfficialROM, https://t.me/EvolutionXOfficial, https://t.me/EvolutionXUpdates
+ExpressiveOS | https://github.com/ExpressiveOS | 
 Frosty | https://github.com/frosty-aosp |
 Fundamental OS | https://github.com/FundamentalOS | https://fundamentalos.org
 GrapheneOS | https://github.com/GrapheneOS | https://t.me/GrapheneOS
@@ -40,6 +44,7 @@ LightningOS AOSP | https://github.com/LightningOS-AOSP | https://t.me/LightningO
 LineageOS | https://github.com/LineageOS | https://t.me/Lineageos_group, https://t.me/LineageOS_Global
 LMODroid (LibreMobileOS) | https://github.com/LMODroid | https://t.me/LMODroid_Discussion, https://t.me/LMODroid_Updates
 LumineDroid | https://github.com/LumineDroid | https://t.me/LumineDroidChat, https://t.me/LumineDroidNews
+matlineage | https://github.com/matlineage | 
 Miku UI | https://github.com/Miku-UI | https://t.me/mikuuirelease
 MIRACLO | https://github.com/MIRACLO-Project | https://t.me/MIRACLO_Project
 MosaicOS | https://github.com/Mosaic-OS | https://mosaicos.io
@@ -55,7 +60,6 @@ Project Infinity X | https://github.com/ProjectInfinity-X | https://t.me/Infinit
 Project Mist OS | https://github.com/Project-Mist-OS | https://t.me/MistOSDiscussion, https://t.me/MistOSUpdate
 Project Shinkai | https://github.com/ShinkaiProject | https://t.me/Mnskkyy
 Project Yugen | https://github.com/YugenProject | 
-Raven AOSP | https://github.com/Raven-AOSP |
 ResurrectedRemixOS | https://github.com/ResurrectedRemixOS | https://t.me/+qLz0jQ_ERZRlM2Ux, https://t.me/OP13CustomRoms, https://t.me/OnePlus11CustomRoms, https://t.me/rr_myron
 Rising Revived OSS | https://github.com/RisingOS-Revived | https://t.me/RisingRevived
 RuriseOS | https://github.com/RuriseOS |
@@ -63,13 +67,13 @@ SHIFTPHONES | https://github.com/SHIFTPHONES | https://shift.eco
 StrixOS | https://github.com/Project-StrixOS | 
 Superior OS | https://github.com/SuperiorOS | https://t.me/superioros, https://t.me/superior_os
 The Clover Project | https://github.com/The-Clover-Project | https://t.me/TheCloverProject_Chat, https://t.me/The_Clover_Project
-The Diva Project | https://github.com/The-Diva-Project | https://t.me/AlexMainMandy
 The XPerience Project | https://github.com/TheXPerienceProject | https://t.me/xperiencechat, https://t.me/xperiencereleases
 uwuAOSP | https://github.com/uwuAOSP | https://uwuaosp.uwuniverse.org
 VoltageOS | https://github.com/VoltageOS | https://t.me/voltageos, https://t.me/voltageosannouncements, https://t.me/voltageos, https://t.me/VoltageOSSupport
 WitAqua | https://github.com/WitAqua | https://witaqua.org
 Wtf!OS | https://github.com/Wtf-OS | 
 YAAP | https://github.com/YAAP | https://t.me/yaapcommon, https://t.me/yaapupdates
+Yasvara AOSP | https://github.com/Yasvara | 
 
 ## Android 16
 
@@ -80,7 +84,6 @@ AlphaDroid | https://github.com/AlphaDroid-Project | https://t.me/alphadroid_cha
 AndroidOne Experience | Android 16  (ASB: 2026-11-01) | Status: OK | https://github.com/AndroidOne-Experience | 
 ArkUI.Project | https://github.com/ArkUI-Project | https://ark-ui.org
 AxionAOSP | https://github.com/AxionAOSP | https://t.me/AxionOS_android_chat, https://t.me/AxionOS_android, https://t.me/AxionOS_android_builders
-DarwinAOSP | https://github.com/DarwinAOSP |
 DeltaPrjkts Main Orgs. /// Lunar TempoUX | https://github.com/DeltaPrjkts | https://t.me/deltaprjkts
 LOS Modified | https://github.com/LOSModified |
 Lunaris-AOSP | https://github.com/Lunaris-AOSP | https://t.me/lunaris_hub, https://t.me/lunaris_update, https://t.me/lunaris_dailyUP
@@ -90,4 +93,3 @@ petalOS | https://github.com/petalFTW |
 PixelOS-GM | https://github.com/pos-gm |
 Project Sakura | https://github.com/ProjectSakura | https://t.me/ProjectSakura, https://t.me/ProjectSakuraUpdates, https://t.me/ProjectSakuraNews
 StatiXOS | https://github.com/StatiXOS | https://t.me/StatiXOSReleases
-xdroid-oss | https://github.com/xdroid-oss | https://t.me/xdroid_chat, https://t.me/xdroidOSS, https://t.me/xdroid_update
