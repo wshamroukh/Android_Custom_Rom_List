@@ -81,7 +81,7 @@ ROM Name | ROM Organization | ROM TG/Discord/Website
 -------:|:-------------------------|:-------------------------
 AICP | https://github.com/AICP | https://discord.gg/nMQUVRD
 AlphaDroid | https://github.com/AlphaDroid-Project | https://t.me/alphadroid_chat
-AndroidOne Experience | Android 16  (ASB: 2026-11-01) | Status: OK | https://github.com/AndroidOne-Experience | 
+AndroidOne Experience | https://github.com/AndroidOne-Experience | 
 ArkUI.Project | https://github.com/ArkUI-Project | https://ark-ui.org
 AxionAOSP | https://github.com/AxionAOSP | https://t.me/AxionOS_android_chat, https://t.me/AxionOS_android, https://t.me/AxionOS_android_builders
 DeltaPrjkts Main Orgs. /// Lunar TempoUX | https://github.com/DeltaPrjkts | https://t.me/deltaprjkts

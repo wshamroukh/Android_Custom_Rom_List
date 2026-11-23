@@ -847,7 +847,7 @@ def merge(text, rows, place, new_entries, fills, latest):
     header, footer = lines[start:first], lines[last + 1:end + 1]
 
     def new_line(e):
-        return render_row(tpl, e["name"], f"https://github.com/{e['login']}", e.get("links", []))
+        return render_row(tpl, clean_name(e["name"], e["login"]), f"https://github.com/{e['login']}", e.get("links", []))
 
     incoming_main = [(r["name"], r["raw"]) for r in prev if place.get(r["owner"]) == "main"] + \
                     [(e["name"], new_line(e)) for e in new_entries if e.get("target") == "main"]
@@ -898,8 +898,21 @@ def merge(text, rows, place, new_entries, fills, latest):
     return "\n".join(out) + ("\n" if text.endswith("\n") else "")
 
 
+def clean_name(name, login):
+    """Org display names are free text: 'AndroidOne Experience | Android 16 (ASB...) | Status: OK'.
+    Keep the first segment, drop table-breaking characters, fall back to the login."""
+    n = re.split(r"\s*(?:\||/{1,3}|\s-\s|\u2022|\u00b7)\s*", (name or "").strip())[0]
+    n = re.sub(r"[|<>`*_\[\]]", "", n).strip()
+    n = re.sub(r"\s+", " ", n)
+    if len(n) < 2 or len(n) > 40:
+        n = login
+    return n
+
+
 def render_row(tpl, name, url, links):
     """Render a new row in the same style as existing row `tpl`."""
+    name = re.sub(r"[|<>]", "", name or "").strip()
+    links = [u.replace("|", "%7C") for u in links if u]
     links_s = ", ".join(links)
     if tpl["style"] == "html":
         line, vals, k = tpl["raw"], [name, url, links_s], [0]
